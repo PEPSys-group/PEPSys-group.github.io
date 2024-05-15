@@ -16,7 +16,7 @@ Frank heads the PEPSys group. More information available [here](/team/fp)
 
 **Research Associate**
 
-Nicola is Research Associate in the PEPSys group and conducts research in the domain of Privacy Engineering, particularly focusing on the right to data access and data portability as well as on transparency.
+Nicola is research associate in the PEPSys group and conducts research in the domain of Privacy Engineering, particularly focusing on the right to data access and data portability as well as on transparency.
 
 More information available [here](/team/nl)
 
