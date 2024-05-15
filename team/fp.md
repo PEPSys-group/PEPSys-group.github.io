@@ -1,6 +1,5 @@
 ---
 title: "Frank Pallas"
-permalink: /team/fp
 layout: base
 ---
 
