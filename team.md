@@ -24,4 +24,6 @@ More information available [here](/team/nl)
 
 Huh...? 
 
-Yes, indeed, this could be you! We're continuously searching for new colleagues eager to embark on our journey. Sharing our excitement for techno-legal interdependencies of cutting-edge, enterprise-grade technologies? Experience in interdisciplinary research at the intersection of IT and  the law, preferably relating to recent and upcoming regulations? Looking for a place to grow and to establish something new from ground up with a can-do-attitude? Hungry for mountains, rivers, and a really awesome place to live? [Drop us a line](mailto:frank.pallas@plus.ac.at)
+Yes, indeed, this could be you! We're continuously searching for new colleagues eager to embark on our journey. 
+
+Sharing our excitement for techno-legal interdependencies of cutting-edge, enterprise-grade technologies? Experience in interdisciplinary research at the intersection of IT and  the law, preferably relating to recent and upcoming regulations? Looking for a place to grow and to establish something new from ground up with a can-do-attitude? Hungry for mountains, rivers, and a really awesome place to live? [Drop us a line](mailto:frank.pallas@plus.ac.at)
