@@ -12,7 +12,7 @@ permalink: /team
 
 Frank heads the PEPSys group. More information available [here](/team/fp)
 
-## MSc. Nicola Leschke*
+## MSc. Nicola Leschke
 
 **Research Associate**
 
