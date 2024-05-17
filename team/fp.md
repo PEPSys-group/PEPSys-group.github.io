@@ -29,5 +29,5 @@ Being dedicated to real-world systems and the respectively arising intricacies i
 
 # Micro-CV
 
-He received is Ph.D. in computer science from TU Berlin, Germany, followed by senior research positions at the KIT’s Center for Applied Legal Studies and the FZI Forschungszentrum Informatik – both in Karlsruhe, Germany. Before joining PLUS, he held a guest professorship for Computers & Society / Computers & Law at TU Berlin and was was senior researcher at TU Berlin’s department for [Information Systems Engineering](https://www.tu.berlin/ise).
+I received my Ph.D. in computer science from TU Berlin, Germany, followed by senior research positions at the KIT’s Center for Applied Legal Studies and the FZI Forschungszentrum Informatik – both in Karlsruhe, Germany. Before joining PLUS, I held an intermediate professorship for Computers & Society / Computers & Law at TU Berlin and was was senior researcher at TU Berlin’s department for [Information Systems Engineering](https://www.tu.berlin/ise).
 
