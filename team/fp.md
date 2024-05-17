@@ -1,8 +1,8 @@
 ---
+title: Univ.-Prof. Dr.-Ing. Frank Pallas
 permalink: /team/fp
 ---
 
-# Univ.-Prof. Dr.-Ing. Frank Pallas
 
 I am professor for Privacy Engineering and Policy-Aligned Systems (PEPSys) at the Paris Lodron University of Salzburg’s faculty for Digital and Analytical Sciences, Austria. My research combines and bridges technical and non-technical (especially legal) aspects of cutting-edge, real-world, and enterprise- or society-grade technologies and systems. This particularly includes:
 
