@@ -4,7 +4,7 @@ permalink: /team/fp
 ---
 
 
-I am professor for Privacy Engineering and Policy-Aligned Systems (PEPSys) at the Paris Lodron University of Salzburg’s faculty for Digital and Analytical Sciences, Austria. My research combines and bridges technical and non-technical (especially legal) aspects of cutting-edge, real-world, and enterprise- or society-grade technologies and systems. This particularly includes:
+I am professor for Privacy Engineering and Policy-Aligned Systems (PEPSys) at the Paris Lodron University of Salzburg’s faculty for Digital and Analytical Sciences, Austria. My research combines technical and non-technical (especially legal) aspects of cutting-edge, real-world, and enterprise- or society-grade technologies and systems. This particularly includes:
 
 * Techno-legal privacy engineering, especially also including aspects beyond anonymity and security
 * Novel technical concepts, mechanisms, and components fostering policy-alignment beyond privacy / data protection law
@@ -23,11 +23,13 @@ Finck, M. and Pallas, F., 2020. [**They who must not be identified—distinguish
 
 Pallas, F., Ulbricht, M.R., Tai, S., Peikert, T., Reppenhagen, M., Wenzel, D., Wille, P. and Wolf, K., 2020. [**Towards application-layer purpose-based access control**](https://dl.acm.org/doi/abs/10.1145/3341105.3375764). In Proceedings of the 35th Annual ACM Symposium on Applied Computing (pp. 1288-1296).
 
+Grünewald, E. and Pallas, F., 2021, March. [**TILT: A GDPR-aligned transparency information language and toolkit for practical privacy engineering**](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17534929842019305805). In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 636-646).
+
 # Projects and other Inquiries
 
 Being dedicated to real-world systems and the respectively arising intricacies in bringing privacy and policy-aligned technologies into practice, I particularly enjoy spotting new challenges from and validating my reseearch results in real-world usecases. National and international projects as well as a broad variety of other collaborations with partners from research and industry are thus integral to my work. For respective inquiries, just get in touch and drop me a line.
 
 # Micro-CV
 
-I received my Ph.D. in computer science from TU Berlin, Germany, followed by senior research positions at the KIT’s Center for Applied Legal Studies and the FZI Forschungszentrum Informatik – both in Karlsruhe, Germany. Before joining PLUS, I held an intermediate professorship for Computers & Society / Computers & Law at TU Berlin and was was senior researcher at TU Berlin’s department for [Information Systems Engineering](https://www.tu.berlin/ise).
+I received my Ph.D. in computer science from TU Berlin, Germany, followed by senior research positions at the [KIT’s Center for Applied Legal Studies](https://www.zar.kit.edu/) and the [FZI Forschungszentrum Informatik](https://www.fzi.de/) – both in Karlsruhe, Germany. Before joining PLUS, I held an intermediate professorship for Computers & Society / Computers & Law at TU Berlin and was was senior researcher at TU Berlin’s department for [Information Systems Engineering](https://www.tu.berlin/ise).
 
