@@ -23,7 +23,7 @@ Finck, M. and Pallas, F., 2020. [**They who must not be identified—distinguish
 
 Pallas, F., Ulbricht, M.R., Tai, S., Peikert, T., Reppenhagen, M., Wenzel, D., Wille, P. and Wolf, K., 2020. [**Towards application-layer purpose-based access control**](https://dl.acm.org/doi/abs/10.1145/3341105.3375764). In Proceedings of the 35th Annual ACM Symposium on Applied Computing (pp. 1288-1296).
 
-Grünewald, E. and Pallas, F., 2021, March. [**TILT: A GDPR-aligned transparency information language and toolkit for practical privacy engineering**](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17534929842019305805). In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 636-646).
+Grünewald, E. and Pallas, F., 2021. [**TILT: A GDPR-aligned transparency information language and toolkit for practical privacy engineering**](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17534929842019305805). In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 636-646).
 
 # Projects and other Inquiries
 
@@ -31,5 +31,5 @@ Being dedicated to real-world systems and the respectively arising intricacies i
 
 # Micro-CV
 
-I received my Diploma and my Ph.D. in computer science from TU Berlin, Germany, followed by senior research positions at the [KIT’s Center for Applied Legal Studies](https://www.zar.kit.edu/) and the [FZI Forschungszentrum Informatik](https://www.fzi.de/) – both in Karlsruhe, Germany. Before joining PLUS, I held an intermediate professorship for Computers & Society / Computers & Law at TU Berlin and was was senior researcher at TU Berlin’s department for [Information Systems Engineering](https://www.tu.berlin/ise).
+I received my Diploma and my Ph.D. in computer science from TU Berlin, Germany, followed by senior research positions at the [KIT’s Center for Applied Legal Studies](https://www.zar.kit.edu/) and the [FZI Forschungszentrum Informatik](https://www.fzi.de/) – both in Karlsruhe, Germany. Before joining PLUS, I held an interim professorship for Computers & Society / Computers & Law at TU Berlin and was was senior researcher at TU Berlin’s department for [Information Systems Engineering](https://www.tu.berlin/ise).
 
