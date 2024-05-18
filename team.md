@@ -6,13 +6,13 @@ permalink: /team
 
 **Some team info will follow here soon**
 
-## Univ.-Prof. Dr.-Ing. Frank Pallas 
+[### Univ.-Prof. Dr.-Ing. Frank Pallas](/team/fp) 
 
-**EXDIGIT professor of Privacy Engineering and Policy-Aligned Systems**
+[**EXDIGIT professor of Privacy Engineering and Policy-Aligned Systems**](/team/fp)
 
-Frank heads the PEPSys group. More information available [here](/team/fp)
+A computer scientist and engineer from the heart with long-standing experience in techno-legal research, Frank heads and coordinates the PEPSys group. His research interests comprise all sub-fields of privacy engineering and policy-aligned systems – from core technical concepts like anonymity guarantees and performance experiments to technically well-founded legal examinations. More information available [here](/team/fp)
 
-## MSc. Nicola Leschke
+### MSc. Nicola Leschke
 
 **Research Associate**
 
@@ -20,10 +20,10 @@ Nicola is research associate in the PEPSys group and conducts research in the do
 
 More information available [here](/team/nl)
 
-## You
+### You
 
 Huh...? 
 
-Yes, indeed, this could be you! We're continuously searching for new colleagues eager to embark on our journey. 
+Yes, indeed, this could be you! We're continuously searching for new colleagues eager to embark on our journey towards truly interdisciplinary technologies. 
 
 Sharing our excitement for techno-legal interdependencies of cutting-edge, enterprise-grade technologies? Experience in interdisciplinary research at the intersection of IT and  the law, preferably relating to recent and upcoming regulations? Looking for a place to grow and to establish something new from ground up with a can-do-attitude? Hungry for mountains, rivers, and a really awesome place to live? [Drop us a line](mailto:frank.pallas@plus.ac.at)
