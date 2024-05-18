@@ -4,5 +4,5 @@ title: "Research"
 permalink: /research
 ---
 
-**Some research info will follow here soon**
+Some research info will follow here soon...
 
