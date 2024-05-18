@@ -8,7 +8,7 @@ Some team info will follow here soon
 
 ### [Univ.-Prof. Dr.-Ing. Frank Pallas](/team/fp) 
 
-[**EXDIGIT professor of Privacy Engineering and Policy-Aligned Systems**](/team/fp)
+**EXDIGIT professor of Privacy Engineering and Policy-Aligned Systems**
 
 A computer scientist and engineer from the heart with long-standing experience in techno-legal research, Frank heads and coordinates the PEPSys group. His research interests comprise all sub-fields of privacy engineering and policy-aligned systems – from core technical concepts like anonymity guarantees and performance experiments to technically well-founded legal examinations. More information available [here](/team/fp)
 
