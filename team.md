@@ -6,7 +6,7 @@ permalink: /team
 
 Some team info will follow here soon
 
-###[Univ.-Prof. Dr.-Ing. Frank Pallas](/team/fp) 
+### [Univ.-Prof. Dr.-Ing. Frank Pallas](/team/fp) 
 
 [**EXDIGIT professor of Privacy Engineering and Policy-Aligned Systems**](/team/fp)
 
