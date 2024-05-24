@@ -17,9 +17,9 @@ Contact me at [frank.pallas@plus.ac.at](mailto:frank.pallas@plus.ac.at)
 
 # Signature Publications
 
-Pallas, F., Koerner, K., Barberá, I., Hoepman, J.H., Jensen, M., Narla, N.R., Samarin, N., Ulbricht, M.R., Wagner, I., Wuyts, K. and Zimmermann, C., 2024. [**Privacy Engineering From Principles to Practice: A Roadmap**](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17937753304434579353). IEEE Security & Privacy, 22(2), pp.86-92.
+Pallas, F., Koerner, K., Barberá, I., Hoepman, J.H., Jensen, M., Narla, N.R., Samarin, N., Ulbricht, M.R., Wagner, I., Wuyts, K. and Zimmermann, C., 2024. [**Privacy Engineering From Principles to Practice: A Roadmap**](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17937753304434579353). IEEE Security & Privacy, 22(2), pp. 86-92.
 
-Finck, M. and Pallas, F., 2020. [**They who must not be identified—distinguishing personal from non-personal data under the GDPR**](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=3923138026311743478). International Data Privacy Law, 10(1), pp.11-36.
+Finck, M. and Pallas, F., 2020. [**They who must not be identified—distinguishing personal from non-personal data under the GDPR**](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=3923138026311743478). International Data Privacy Law, 10(1), pp. 11-36.
 
 Pallas, F., Ulbricht, M.R., Tai, S., Peikert, T., Reppenhagen, M., Wenzel, D., Wille, P. and Wolf, K., 2020. [**Towards application-layer purpose-based access control**](https://dl.acm.org/doi/abs/10.1145/3341105.3375764). In Proceedings of the 35th Annual ACM Symposium on Applied Computing (pp. 1288-1296).
 
