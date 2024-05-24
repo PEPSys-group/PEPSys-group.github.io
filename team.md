@@ -4,7 +4,6 @@ title: "Team"
 permalink: /team
 ---
 
-Some team info will follow here soon
 
 ### [Univ.-Prof. Dr.-Ing. Frank Pallas](/team/fp) 
 
