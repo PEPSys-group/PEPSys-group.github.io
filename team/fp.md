@@ -14,7 +14,7 @@ I am professor for Privacy Engineering and Policy-Aligned Systems (PEPSys) at th
 
 Besides other activities, I co-lead Salzburg's [EXDIGIT initiative](https://www.plus.ac.at/digital-and-analytical-sciences/fachbereiche-einrichtungen/einrichtungen/exdigit/?lang=en) together with [Manfred Tscheligi](https://www.plus.ac.at/aihi/der-fachbereich/team/univ-prof-dr-manfred-tscheligi/), [Christine Bauer](https://www.plus.ac.at/aihi/der-fachbereich/team/christine-bauer/), and [Franz-Benjamin Mocnik](https://www.plus.ac.at/geoinformatik/fachbereich/team/mocnik-franz-benjamin/). For further and always up-to-date information, visit my profiles on [Google Scholar](https://scholar.google.com/citations?user=wCZwHCsAAAAJ), [LinkedIn](https://www.linkedin.com/in/frank-pallas/), and – with a more private focus – [Twitter / X](https://twitter.com/sallapf).
 
-Contact me at [frank.pallas@plus.ac.at](mailto:frank.pallas@plus.ac.at)
+Contact me at [frank.pallas@plus.ac.at](mailto:frank.pallas@plus.ac.at).
 
 # Signature Publications
 
