@@ -1,6 +1,10 @@
 title: PEPSys @ PLUS
+author: 
+  name: Privacy Engineering and Policy-Aligned Systems Group
 theme: Minima
-description: The Privacy Engineering and Policy-Aligned Systems Group at Paris Lodron University Salzburg (PEPSys @ PLUS)
+description: >
+The Privacy Engineering and Policy-Aligned Systems Group at Paris Lodron University Salzburg (PEPSys @ PLUS), led by Prof. Frank Pallas, bridges the gap between the design and engineering of cutting-edge enterprise-grade systems on the one and the legal and policy-related aspects shaping such systems on the other hand. 
+Our techno-legal team is involved in international research activies in the area of privacy engineering and beyond.
 header_pages:
 - README.md
 - team.md
