@@ -31,5 +31,5 @@ Being dedicated to real-world systems and the respectively arising intricacies i
 
 # Micro-CV
 
-I received my Diploma and my Ph.D. in computer science from TU Berlin, Germany, followed by senior research positions at the [KIT’s Center for Applied Legal Studies](https://www.zar.kit.edu/) and the [FZI Forschungszentrum Informatik](https://www.fzi.de/) – both in Karlsruhe, Germany. Before joining PLUS, I held an interim professorship for Computers & Society / Computers & Law at TU Berlin and was was senior researcher at TU Berlin’s department for [Information Systems Engineering](https://www.tu.berlin/ise).
+I received my Diploma and my Ph.D. in computer science from TU Berlin, Germany, followed by senior research positions at the [KIT’s Center for Applied Legal Studies](https://www.zar.kit.edu/) and the [FZI Forschungszentrum Informatik](https://www.fzi.de/) – both in Karlsruhe, Germany. Before joining PLUS, I held an interim professorship for Computers & Law / Computers & Society at TU Berlin and was was senior researcher at TU Berlin’s department for [Information Systems Engineering](https://www.tu.berlin/ise).
 
