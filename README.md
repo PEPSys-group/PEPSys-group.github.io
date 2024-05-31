@@ -1,6 +1,7 @@
 ---
 title: "Home"
 layout: page
+decription: The Privacy Engineering and Policy-Aligned Systems Group at Paris Lodron University Salzburg (PEPSys @ PLUS), led by Prof. Frank Pallas, is doing interdisciplinary research in the techno-legal domain. We have expertise in aligning real-world systems with GDPR and alike privacy regulations. Beyond that, we design and prototypically implement novel approaches for aligning real-world systems with actual legal and policy-related givens.
 permalink: /
 ---
 
@@ -10,5 +11,5 @@ Our overall mission is to build bridges between the design and engineering of cu
 
 Our group members' competencies and research activities are shaped by a unique combinination of technical and policy-related aspects, leading to perspectives and contributions that consciously break disciplinary boundaries. For more information, see the individual [member profiles](/team) as well as our various [publications](publications) in technical and non-technical outlets. 
 
-For always up-to-date activities of the group, see what's going on via Twitter / X ([#PEPSys](https://twitter.com/hashtag/PEPSys?f=live)) or Linkedin ([#PEPSys](https://www.linkedin.com/feed/hashtag/?keywords=pepsys)).
+For always up-to-date activities of the PEPSys group, see what's going on via Twitter / X ([#PEPSys](https://twitter.com/hashtag/PEPSys?f=live)) or Linkedin ([#PEPSys](https://www.linkedin.com/feed/hashtag/?keywords=pepsys)).
 
