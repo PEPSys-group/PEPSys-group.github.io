@@ -1,9 +1,11 @@
 ---
 title: Nicola Leschke, M.Sc. B.Sc.
+description: Nicola Leschke is a research associate at the Privacy Engineering and Policy-Aligned Systems (PEPSys) group of Paris Lodron University of Salzburg. Her research interest is in the area of privacy engineering, with particular interest in personal data access and data portability. She makes use of established computer science techniques, like schema matching, to solve current technical challenges in data subject rights.
 permalink: /team/nl
 ---
 
-I am a research associate and PhD candidate in the field of privacy engineering, with a focus on personal data access and data portability. 
+I am a research associate and PhD candidate at the Privacy Engineering and Policy-Aligned Systems (PEPSys) group of Paris Lodron University of Salzburg. 
+My research expertise is in the field of privacy engineering, with a focus on personal data access and data portability. 
 To turn the unused concept of data access into a valuable source of information, I explore different steps of the user journey and build technical systems that remove barriers hindering users from exercising their access rights. 
 In particular, this includes the following challenges and approaches:
 
@@ -11,7 +13,7 @@ In particular, this includes the following challenges and approaches:
 * Heterogeneous data representation, unified through graph inference methods.
 * Missing interoperability, addressed by techniques of data integration, specifically schema matching.
 
-In 2024, I joined the Privacy Engineering and Policy-Aligned Systems (PEPSys) group at the Paris Lodron University of Salzburg’s faculty for Digital and Analytical Sciences. Previously, I worked as a research associate at the [Information Systems Engineering](https://www.tu.berlin/ise) department of TU Berlin. Within my work at TU Berlin, I discovered my passion for privacy engineering in the context of the [DaSKITA project](https://www.tu.berlin/ise/projekte/daskita), which was focused on legally compliant and user-friendly design of transparency and data access rights. Moreover, I was involved in teaching at bachelor and master level (esp. "Information Governance" and "Cloud Native Architecture and Engineering").
+In 2024, I joined the PEPSys group at the Paris Lodron University of Salzburg’s faculty for Digital and Analytical Sciences. Previously, I worked as a research associate at the [Information Systems Engineering](https://www.tu.berlin/ise) department of TU Berlin. Within my work at TU Berlin, I discovered my passion for privacy engineering in the context of the [DaSKITA project](https://www.tu.berlin/ise/projekte/daskita), which was focused on legally compliant and user-friendly design of transparency and data access rights. Moreover, I was involved in teaching at bachelor and master level (esp. "Information Governance" and "Cloud Native Architecture and Engineering").
 In 2022 I completed my studies of Information Systems Management at TU Berlin with a master thesis on "Privacy Preserving Automated Schema Matching in a Distributed Setting".
 For further and always up-to-date information, visit my profiles on [Google Scholar](https://scholar.google.de/citations?user=n-MsKQUAAAAJ&hl=de) and [LinkedIn](https://www.linkedin.com/in/nicolaleschke).
 
