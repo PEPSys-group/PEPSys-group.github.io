@@ -94,6 +94,19 @@ Individual, informed, specific and explicitly given consent is one of the main p
 * Project duration: 04/2017 - 06/2018
 * Involved PEPSys members and role: [Frank Pallas](/team/fp) (PI and overall project lead)
 
+### DITAS
+
+[**Data-intensive Applications Improvement by moving Data and Computation in mixed Cloud/Fog Environments**]()
+
+New data intensive applications such as autonomous driving, e-health or industry 4.0 require faster response times and stronger privacy and security guarantees than current cloud providers can offer. Fog computing is one way to address these requirements but also introduces new challenges in matters such as security or privacy. DITAS envisioned, designed and prototypically implemented a respective cloud-edge data management system that is aware of resource limitations of edge locations and helps to synchronize data between cloud and edge while still complying with privacy and security requirements. On this basis, information in the e-health context, for instance, can only be shared with research institutions, and only after the data was anonymized and the patients gave their explicit agreement to share their data.
+
+* Website: [https://cordis.europa.eu/project/id/731945](https://cordis.europa.eu/project/id/731945) / [https://github.com/DITAS-Project](https://github.com/DITAS-Project) (Code)
+* Partners: [Atos Spain (Spain)](https://atos.net/es/spain), [Politecnico Milano (Italy)](https://www.deib.polimi.it/eng/home-page), [IBM Israel (Israel)](https://www.ibm.com/), [IDEKO (Spain)](https://www.ideko.es), [CloudSigma (Switzerland)](https://www.cloudsigma.com/), [National Technical University of Athens (Greece)](https://www.iccs.gr/), [Hospital San Raffaele (Italy)](https://www.hsr.it/), [](), [](), [](), [](), 
+* Overall Funding: 4.9 mio €
+* Funded by: EU Horizon 2020
+* Project duration: 01/2017 - 12/2019
+* Involved PEPSys members and role: [Frank Pallas](/team/fp) (Co-PI)
+
 <!---
 ### 
 
