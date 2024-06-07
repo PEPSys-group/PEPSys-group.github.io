@@ -23,7 +23,9 @@ In 2022, the Paris Lodron University of Salzburg (PLUS) established the new Facu
 * Involved PEPSys members and role: [Frank Pallas](/team/fp) (EXDIGIT professor), [Nicola Leschke](/team/nl) (research associate)
 
 </br>
+
 ---
+
 </br>
 
 ## Past Projects
