@@ -76,7 +76,7 @@ The aim of this project was the design and prototypical implementation of AI-bas
 * Website: [https://daskita.github.io/](https://daskita.github.io/) (general info) / [https://github.com/daskita](https://github.com/daskita) (20+ Code Repos)
 * Partners: [iRights.Lab](https://www.irights-lab.de/)
 * Overall Funding: 750k €
-* Funded by: Federal ministry for the Environment, Nature Conservation, Nuclear safety and Consumer Protection (BMUV, DE)
+* Funded by: Federal ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV, DE)
 * Project duration: 01/2020 - 03/2023
 * Involved PEPSys members and role: [Frank Pallas](/team/fp) (PI and overall project lead), [Nicola Leschke](/team/nl) (research associate)
 
