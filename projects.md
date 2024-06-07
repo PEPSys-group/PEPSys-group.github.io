@@ -5,14 +5,54 @@ description: The Privacy Engineering and Policy-Aligned Systems (PEPSys) group a
 permalink: /projects
 ---
 
-The overall mission of the Privacy Engineering and Policy-Aligned Systems (PEPSys) group, led by [Univ.-Prof. Dr.-Ing. Frank Pallas](/team/fp), is to build bridges between the design and engineering of cutting-edge enterprise- and society-grade systems on the one and the legal and policy-related aspects shaping such systems on the other hand. In so doing, we explicitly follow a design- and engineering-oriented approach. We ideate, design, develop, prototypically implement, and experimentally assess **novel technical approaches and mechanisms consciously addressing so far underrepresented legal and policy-related concepts and principles**. At the same time, we also engage in introducing and "translating" technical concepts into legal and policy-related discourses. 
+Recently established in our new environment in Salzburg, we are currently looking for new national and international project opportunities as well as other collaborations with partners from research and industry. Interested in joint activities along our [lines of research](/research)? [Get in touch](mailto:frank.pallas@plus.ac.at)!
 
-Our research is originally rooted in the domain of Privacy Engineering, where we made significant technical contributions towards privacy principles such as [transparency](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17534929842019305805), [purpose limitation](https://dl.acm.org/doi/abs/10.1145/3341105.3375764), or [data access and portability](https://doi.org/10.1007/978-3-031-34444-2_9) and established an overall agenda that consciously incorporates the specific challenges arising in the adoption of **privacy enhancing technologies** to complex real-world systems and the respective ["second-order non-functional properties"](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17937753304434579353). The conscious integration of legally well-informed insights hereby allows for **technologies with particular legal meaning**. On this basis, we are currently reaching out to other policy domains calling for proper technical materializations and alignment. In so doing, we particularly look at recent regulations from the "digital" space (AI Act, Digital Services Act, Data Act, etc.) as well as other regulations affecting enterprise-grade systems in domains of particular societal relevance (energy, health, SDGs, ...).
+### Current projects
 
-Besides such design- and engineering-focused activities, we also engage in the cross-disciplinary contextualization of technical givens and concepts and, thus, their proper comprehension and reflection in non-technical (esp. legal / regulatory) discourses. Together with the above-mentioned activities translating non-technical concepts into concrete technical materializations, we thereby work towards a more integrative **"technology-policy co-design"** which counteracts the manifold misconceptions, frictions, and dysfunctionalities that currently characterize the interplay between legal / policy-related givens and the concrete design and implementation of real-world, enterprise- and society grade systems. 
+## EXDIGIT 
 
-![Bi-directional "PEPSys-circle" demonstrating the interplay between legal/policy domain and technology domain](pepsys-circle.png)
+[**Excellence in Digital Sciences and Interdisciplinary Technologies**](https://www.plus.ac.at/digital-and-analytical-sciences/fachbereiche-einrichtungen/einrichtungen/exdigit/?lang=en)
 
-Along these lines, we are continuously looking for new and thrilling challenges arising at the intersection of cutting-edge digital technologies and societally relevant regulations and policies. In this regard, we similarly appreciate ad-hoc bi-directional exchanges with partners from industry, research, and administration as well as longer-term collaborations and projects – in Salzburg, Austria, and from all over the world. For questions of any kind, just [drop us a line](mailto:frank.pallas@plus.ac.at).
+In 2022, the Paris Lodron University of Salzburg (PLUS) established the new Faculty of Digital and Analytical Sciences (DAS). The EXDIGIT project aims to establish this newly founded faculty as an interdisciplinary research platform with critical mass and international visibility in the aforementioned digital topics. The PEPSys @ PLUS group is one piece within this initiative, along the "sibling" groups for [Interactive Intelligent Systems](https://christinebauer.eu/) and [Space and Place in the Information Sciences](https://www.space-and-place.net/) as well as many further activities.
 
-For always up-to-date activities of our PEPSys group, see what's going on via Twitter / X ([#PEPSys](https://twitter.com/hashtag/PEPSys?f=live)) or Linkedin ([#PEPSys](https://www.linkedin.com/feed/hashtag/?keywords=pepsys))
+* Website: [https://www.plus.ac.at/digitale-und-analytische-wissenschaften/fachbereiche-einrichtungen/einrichtungen/exdigit/](https://www.plus.ac.at/digitale-und-analytische-wissenschaften/fachbereiche-einrichtungen/einrichtungen/exdigit/)
+* Partners: [Salzburg Research](https://www.salzburgresearch.at/), [Innovation Salzburg](https://www.innovation-salzburg.at/))
+* Overall Funding: 12.8 mio €
+* Funded by: Land Salzburg
+* Project duration: 04/2022 - 03/2028
+* Involved PEPSys members and role: [Frank Pallas](/team/fp) (EXDIGIT professor), [Nicola Leschke](/team/nl) (research associate)
+
+### Past Projects
+
+Before joining PEPSys @ PLUS, our [team members](/team) were involved in the following projects at TU Berlin's [Information Systems Engineering group](https://www.tu.berlin/ise) (in chronological order, covering projects since 2017):
+
+## GANGES
+
+[**Assurance of Anonymity Guarantees in Enterprise Streaming-Applications (Gewährleistung von Anonymitäts-Garantien in Enterprise-Streaminganwendungen)**](https://www.tu.berlin/en/ise/research-projects/ganges)
+
+Assuring anonymity guarantees is crucial for the implementation of novel, data-driven applications, and business models. Basic models and techniques such as k-anonymity or differential privacy already exist but are barely used in practice. This can be attributed to a lack of support for complex data types as particularly relevant in real-world applications as well as to insufficient addressing of communication and architectural models as broadly used in enterprise environments and usecases – especially regarding the paradigm of stream processing. Through consequent integration of the three aspects “anonymity”, “data utility” and “integrability / overheads”, the project provides important contributions to the concrete applicability of modern anonymization techniques and, thus, to the actual practicability of novel, data-driven applications and business models.
+
+* Website: [https://www.tu.berlin/en/ise/research-projects/ganges](https://www.tu.berlin/en/ise/research-projects/ganges)
+* Partners: [TU Dresden, Privacy & Security group](https://tu-dresden.de/ing/informatik/sya/ps), [Ampeers Energy](https://www.ampeersenergy.de/)
+* Overall Funding: 2.0 mio €
+* Funded by: Federal Ministry of Education and Research (BMBF, DE)
+* Project duration: 12/2022 - 12/2025
+* Involved PEPSys members and role: [Frank Pallas](/team/fp) (PI and overall project lead)
+
+<!---
+## 
+
+[**xx**]()
+
+abc
+
+* Website: []()
+* Partners:
+* Overall Funding:
+* Funded by: 
+* Project duration: 
+* Involved PEPSys members and role: [Frank Pallas](/team/fp)
+
+--->
+
+
