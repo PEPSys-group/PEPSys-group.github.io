@@ -7,9 +7,9 @@ permalink: /projects
 
 Recently established in our new environment in Salzburg, we are currently looking for new national and international project opportunities as well as other collaborations with partners from research and industry. Interested in joint activities along our [lines of research](/research)? [Get in touch](mailto:frank.pallas@plus.ac.at)!
 
-### Current projects
+## Current projects
 
-## EXDIGIT 
+### EXDIGIT 
 
 [**Excellence in Digital Sciences and Interdisciplinary Technologies**](https://www.plus.ac.at/digital-and-analytical-sciences/fachbereiche-einrichtungen/einrichtungen/exdigit/?lang=en)
 
@@ -22,11 +22,11 @@ In 2022, the Paris Lodron University of Salzburg (PLUS) established the new Facu
 * Project duration: 04/2022 - 03/2028
 * Involved PEPSys members and role: [Frank Pallas](/team/fp) (EXDIGIT professor), [Nicola Leschke](/team/nl) (research associate)
 
-### Past Projects
+## Past Projects
 
 Before joining PEPSys @ PLUS, our [team members](/team) were involved in the following projects at TU Berlin's [Information Systems Engineering group](https://www.tu.berlin/ise) (in chronological order, covering projects since 2017):
 
-## GANGES
+### GANGES
 
 [**Assurance of Anonymity Guarantees in Enterprise Streaming-Applications (Gewährleistung von Anonymitäts-Garantien in Enterprise-Streaminganwendungen)**](https://www.tu.berlin/en/ise/research-projects/ganges)
 
@@ -40,7 +40,7 @@ Assuring anonymity guarantees is crucial for the implementation of novel, data-d
 * Involved PEPSys members and role: [Frank Pallas](/team/fp) (PI and overall project lead)
 
 <!---
-## 
+### 
 
 [**xx**]()
 
