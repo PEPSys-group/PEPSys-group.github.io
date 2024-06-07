@@ -16,11 +16,13 @@ Recently established in our new environment in Salzburg, we are currently lookin
 In 2022, the Paris Lodron University of Salzburg (PLUS) established the new Faculty of Digital and Analytical Sciences (DAS). The EXDIGIT project aims to establish this newly founded faculty as an interdisciplinary research platform with critical mass and international visibility in the aforementioned digital topics. The PEPSys @ PLUS group is one piece within this initiative, along the "sibling" groups for [Interactive Intelligent Systems](https://christinebauer.eu/) and [Space and Place in the Information Sciences](https://www.space-and-place.net/) as well as many further activities.
 
 * Website: [https://www.plus.ac.at/digitale-und-analytische-wissenschaften/fachbereiche-einrichtungen/einrichtungen/exdigit/](https://www.plus.ac.at/digitale-und-analytische-wissenschaften/fachbereiche-einrichtungen/einrichtungen/exdigit/)
-* Partners: [Salzburg Research](https://www.salzburgresearch.at/), [Innovation Salzburg](https://www.innovation-salzburg.at/))
+* Partners: [Salzburg Research](https://www.salzburgresearch.at/), [Innovation Salzburg](https://www.innovation-salzburg.at/)
 * Overall Funding: 12.8 mio €
 * Funded by: Land Salzburg
 * Project duration: 04/2022 - 03/2028
 * Involved PEPSys members and role: [Frank Pallas](/team/fp) (EXDIGIT professor), [Nicola Leschke](/team/nl) (research associate)
+
+---
 
 ## Past Projects
 
@@ -37,7 +39,7 @@ Assuring anonymity guarantees is crucial for the implementation of novel, data-d
 * Overall Funding: 2.0 mio €
 * Funded by: Federal Ministry of Education and Research (BMBF, DE)
 * Project duration: 12/2022 - 12/2025
-* Involved PEPSys members and role: [Frank Pallas](/team/fp) (PI and overall project lead)
+* Involved PEPSys members and role: [Frank Pallas](/team/fp) (PI and overall project lead, until leaving TU Berlin)
 
 <!---
 ### 
