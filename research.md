@@ -15,5 +15,5 @@ Besides such design- and engineering-focused activities, we also engage in the c
 
 Along these lines, we are continuously looking for new and thrilling challenges arising at the intersection of cutting-edge digital technologies and societally relevant regulations and policies. In this regard, we similarly appreciate ad-hoc bi-directional exchanges with partners from industry, research, and administration as well as longer-term collaborations and projects – in Salzburg, Austria, and from all over the world. For questions of any kind, just [drop us a line](mailto:frank.pallas@plus.ac.at).
 
-For always up-to-date activities of our PEPSys group, see what's going on via Twitter / X ([#PEPSys](https://twitter.com/hashtag/PEPSys?f=live)) or Linkedin ([#PEPSys](https://www.linkedin.com/feed/hashtag/?keywords=pepsys))
+Some exemplary previous research projects are listed in our [projects section](/projects). For always up-to-date activities of our PEPSys group, see what's going on via Twitter / X ([#PEPSys](https://twitter.com/hashtag/PEPSys?f=live)) or Linkedin ([#PEPSys](https://www.linkedin.com/feed/hashtag/?keywords=pepsys))
 
