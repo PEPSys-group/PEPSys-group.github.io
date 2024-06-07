@@ -22,11 +22,10 @@ In 2022, the Paris Lodron University of Salzburg (PLUS) established the new Facu
 * Project duration: 04/2022 - 03/2028
 * Involved PEPSys members and role: [Frank Pallas](/team/fp) (EXDIGIT professor), [Nicola Leschke](/team/nl) (research associate)
 
-</br>
 
 ---
 
-</br>
+
 
 ## Past Projects
 
