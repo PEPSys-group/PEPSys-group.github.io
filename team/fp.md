@@ -28,7 +28,7 @@ Grünewald, E. and Pallas, F., 2021. [**TILT: A GDPR-aligned transparency inform
 
 # Projects and other Inquiries
 
-Being dedicated to real-world systems and the respectively arising intricacies in bringing privacy and policy-aligned technologies into practice, I particularly enjoy spotting new challenges from and validating my reseearch results in real-world usecases. National and international projects as well as a broad variety of other collaborations with partners from research and industry are thus integral to my work. For respective inquiries, just get in touch and drop me a line.
+Being dedicated to real-world systems and the respectively arising intricacies in bringing privacy and policy-aligned technologies into practice, I particularly enjoy spotting new challenges from and validating my reseearch results in real-world usecases. National and international projects as well as a broad variety of other collaborations with partners from research and industry are thus integral to my work (some exemplary previous projects are listed in our [projects section](/projects)). For respective inquiries, just get in touch and drop me a line.
 
 # Micro-CV
 
