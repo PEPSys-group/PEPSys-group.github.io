@@ -56,7 +56,7 @@ The so-called Cloud-Edge Continuum, which enables the operation and management o
 
 ### Gaia-X 4 PLC-AAD
 
-[**Gaia-X for Product Lifecycle Across Automated Driving**]()
+[**Gaia-X for Product Lifecycle Across Automated Driving**](https://www.gaia-x4plcaad.info/)
 
 The development of automated driving functions is becoming increasingly complex and costly due to the required combination of software and hardware and their safeguarding. At the same time, OEMs and suppliers are facing ever new challenges in the design of their supply chains. In both cases, improvements require bringing together large amounts of data from different sources. Gaia-X 4 PLC-AAD aims to develop and construct an open data ecosystem in environments for automated driving that enables the efficient exchange of data and services while also ensuring the necessary security at the technical level.
 
@@ -83,11 +83,11 @@ The aim of this project was the design and prototypical implementation of AI-bas
 
 ### EMIDD
 
-[**Consent Management for the Internet of Things (Einwilligungsmanagement für das internet der Dinge)**]()
+[**Consent Management for the Internet of Things (Einwilligungsmanagement für das internet der Dinge)**](https://github.com/EMIDD-Projekt)
 
 Individual, informed, specific and explicitly given consent is one of the main pillars of data protection law. Traditionally, such consent has been given, for example, in writing or by ticking a box under a privacy statement several pages long. In the context of the IoT - where, on the one hand, traditional user interfaces are not available and, on the other, data once collected can be used for a variety of other desirable purposes - this approach is obviously no longer viable. Instead, new, technically supported approaches to consent management are needed. In the EMIDD project, possibilities of such technical approaches as well as their connectivity to current and future data protection law were being researched, including the design, prototypical implementation, and evaluation of respective mechanisms.
 
-* [https://github.com/EMIDD-Projekt](https://github.com/EMIDD-Projekt)
+* Website: [https://github.com/EMIDD-Projekt](https://github.com/EMIDD-Projekt)
 * Partners: [iRights.Lab](https://www.irights-lab.de/)
 * Overall Funding: 100k €
 * Funded by: Federal ministry of Justice and for Consumer Protection (BMJV, DE)
@@ -96,7 +96,7 @@ Individual, informed, specific and explicitly given consent is one of the main p
 
 ### DITAS
 
-[**Data-intensive Applications Improvement by moving Data and Computation in mixed Cloud/Fog Environments**]()
+[**Data-intensive Applications Improvement by moving Data and Computation in mixed Cloud/Fog Environments**](https://cordis.europa.eu/project/id/731945)
 
 New data intensive applications such as autonomous driving, e-health or industry 4.0 require faster response times and stronger privacy and security guarantees than current cloud providers can offer. Fog computing is one way to address these requirements but also introduces new challenges in matters such as security or privacy. DITAS envisioned, designed and prototypically implemented a respective cloud-edge data management system that is aware of resource limitations of edge locations and helps to synchronize data between cloud and edge while still complying with privacy and security requirements. On this basis, information in the e-health context, for instance, can only be shared with research institutions, and only after the data was anonymized and the patients gave their explicit agreement to share their data.
 
