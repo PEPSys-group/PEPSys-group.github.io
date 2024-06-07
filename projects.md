@@ -54,7 +54,45 @@ The so-called Cloud-Edge Continuum, which enables the operation and management o
 * Project duration: 09/2022 - 08/2025
 * Involved PEPSys members and role: [Frank Pallas](/team/fp) (initial Co-PI and head of the Legal and Ethics Advisory Board)
 
+### Gaia-X 4 PLC-AAD
 
+[**Gaia-X for Product Lifecycle Across Automated Driving**]()
+
+The development of automated driving functions is becoming increasingly complex and costly due to the required combination of software and hardware and their safeguarding. At the same time, OEMs and suppliers are facing ever new challenges in the design of their supply chains. In both cases, improvements require bringing together large amounts of data from different sources. Gaia-X 4 PLC-AAD aims to develop and construct an open data ecosystem in environments for automated driving that enables the efficient exchange of data and services while also ensuring the necessary security at the technical level.
+
+* Website: [https://www.gaia-x4plcaad.info/](https://www.gaia-x4plcaad.info/)
+* Partners: [3D Mapping Solutions](https://www.3d-mapping.de/), [ADC Automotive Distance Control Systems](https://www.continental-automotive.com/en.html), [Automotive Solution Center for Simulation](https://www.asc-s.de), [AVL Germany](https://www.avl.com/en-at/locations/avl-deutschland-gmbh), [BMW Group](https://www.bmwgroup.com), [Conti Temic](https://www.continental-automotive.com/en/microsites/laboratories/germany/ql-ing-_-emc-lab.html), [German Aerospace Center](https://www.dlr.de), [Research Institute for Automotive Engineering and Vehicle Engines](https://www.fkfs.de/en/), [Fraunhofer Society](https://www.fraunhofer.de/), [Infineon](https://www.infineon.com), [Institute for Quality and Reliability](https://www.world-class-quality.com), [msg systems](https://www.msg.group), [Perpetuum Progress](https://perpetuum-progress.io/), [SETLabs](https://www.setlabs.de/), [TH Ingolstadt](https://www.thi.de/), [TraceTronic](https://www.tracetronic.de/), [TrianGraphics](https://triangraphics.de/), [TU Munich](https://www.tum.de/), [Virtual City Systems](https://vc.systems/)
+* Overall Funding: 25.0 mio €
+* Funded by: Federal Ministry of Economic Affairs and Climate Action (BMWK, DE)
+* Project duration: 01/2022 - 12/2024
+* Involved PEPSys members and role: [Frank Pallas](/team/fp) (initial Co-PI and sub-project lead)
+
+### DaSKITA
+
+[**Data Sovereignty Through AI-based Transparency and Access (Datensouveränität durch KI-basierte Transparenz und Auskunft (DaSKITA))**](https://daskita.github.io/)
+
+The aim of this project was the design and prototypical implementation of AI-based concepts, mechanisms and tools which enable consumers to obtain a higher level of awareness and self-determination in the context of data-driven services. Transparency and the right of access have always been an integral part of privacy / data-protection regulations: to be able to act in a sovereign and self-determined way in everyday digital life, consumers need to know 'who knows what, when, and on what occasion about them' (BVerfG 1983, RN 94). In close cooperation between computer science, legal and socio-political research as well as corporate practice, AI-based technologies for the low-effort exercise of transparency and access rights, for simplified reception of appropriate information and its machine-readable provision by service providers were to be developed in this project. 
+
+* Website: [https://daskita.github.io/](https://daskita.github.io/) (general info) / [https://github.com/daskita](https://github.com/daskita) (20+ Code Repos)
+* Partners: [iRights.Lab](https://www.irights-lab.de/)
+* Overall Funding: 750k €
+* Funded by: Federal ministry for the Environment, Nature Conservation, Nuclear safety and Consumer Protection (BMUV, DE)
+* Project duration: 01/2020 - 03/2023
+* Involved PEPSys members and role: [Frank Pallas](/team/fp) (PI and overall project lead), [Nicola Leschke](/team/nl) (research associate)
+
+
+### EMIDD
+
+[**Consent Management for the Internet of Things (Einwilligungsmanagement für das internet der Dinge)**]()
+
+Individual, informed, specific and explicitly given consent is one of the main pillars of data protection law. Traditionally, such consent has been given, for example, in writing or by ticking a box under a privacy statement several pages long. In the context of the IoT - where, on the one hand, traditional user interfaces are not available and, on the other, data once collected can be used for a variety of other desirable purposes - this approach is obviously no longer viable. Instead, new, technically supported approaches to consent management are needed. In the EMIDD project, possibilities of such technical approaches as well as their connectivity to current and future data protection law were being researched, including the design, prototypical implementation, and evaluation of respective mechanisms.
+
+* [https://github.com/EMIDD-Projekt](https://github.com/EMIDD-Projekt)
+* Partners: [iRights.Lab](https://www.irights-lab.de/)
+* Overall Funding: 100k €
+* Funded by: Federal ministry of Justice and for Consumer Protection (BMJV, DE)
+* Project duration: 04/2017 - 06/2018
+* Involved PEPSys members and role: [Frank Pallas](/team/fp) (PI and overall project lead)
 
 <!---
 ### 
