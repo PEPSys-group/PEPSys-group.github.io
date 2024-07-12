@@ -23,7 +23,7 @@ Nicola is research associate in the PEPSys group at Paris Lodron University of S
 
 More information available [here](/team/nl).
 
-### You
+### [You](https://en.wikipedia.org/wiki/You_%28Time_Person_of_the_Year%29#/media/File:Time_youcover01.jpg)
 
 Huh...? 
 
