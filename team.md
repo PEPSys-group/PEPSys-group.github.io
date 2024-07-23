@@ -15,14 +15,6 @@ A computer scientist and engineer from the heart with long-standing experience i
 
 For more information, see his [profile page](/team/fp).
 
-### [Dr. Narges Mehran](/team/nm)
-
-**Research Associate (PostDoc)**
-
-Narges is research associate (PostDoc) at Salzburg Research and associated member of the PEPSys group at Paris Lodron University of Salzburg. Her research focuses on real-world distributed technologies, energy efficiency, grid greening, and electrifying everything. 
-
-More information is available at her [profile page](/team/nm).
-
 ### [MSc. Nicola Leschke](/team/nl)
 
 **Research Associate**
@@ -30,6 +22,14 @@ More information is available at her [profile page](/team/nm).
 Nicola is research associate in the PEPSys group at Paris Lodron University of Salzburg and conducts research in the domain of Privacy Engineering, particularly focusing on the right to data access and data portability as well as on transparency.
 
 More information available [here](/team/nl).
+
+### [Dr. Narges Mehran (associated member)](/team/nm)
+
+**Research Associate (PostDoc)**
+
+Narges is research associate (PostDoc) at Salzburg Research and associated member of the PEPSys group at Paris Lodron University of Salzburg. Her research focuses on real-world distributed technologies, energy efficiency, grid greening, and electrifying everything. 
+
+More information is available at her [profile page](/team/nm).
 
 ### [You](https://en.wikipedia.org/wiki/You_%28Time_Person_of_the_Year%29#/media/File:Time_youcover01.jpg)
 
