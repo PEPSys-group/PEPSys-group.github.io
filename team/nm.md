@@ -10,7 +10,7 @@ I am an EXDIGIT Research Associate (PostDoc) at Salzburg Research and associated
 * Anomaly detection in distributed computing by applying the ML models,
 * Novel technical concepts, mechanisms, and components fostering electricity consumption enhancement and beyond
 
-Besides other activities, I contribute to Salzburg's [EXDIGIT initiative](https://www.plus.ac.at/digital-and-analytical-sciences/fachbereiche-einrichtungen/einrichtungen/exdigit/?lang=en) led by [Faculty of Digital and Analytical Sciences (DAS) at Universität Salzburg](https://www.plus.ac.at/aihi/der-fachbereich/team/?lang=en) in cooperation with [Innovation Salzburg GmbH](https://www.innovation-salzburg.at/en/projekt/exdigit/), [Frank Pallas](https://scholar.google.com/citations?user=wCZwHCsAAAAJ) and [Salzburg Research](https://www.salzburgresearch.at/2024/kooperation-fuer-interdisziplinaere-forschung-in-salzburg/).
+Besides other activities, I contribute to Salzburg's [EXDIGIT initiative](https://www.plus.ac.at/digital-and-analytical-sciences/fachbereiche-einrichtungen/einrichtungen/exdigit/?lang=en) led by [Faculty of Digital and Analytical Sciences (DAS) at Universität Salzburg](https://www.plus.ac.at/aihi/der-fachbereich/team/?lang=en) in cooperation with [Innovation Salzburg GmbH](https://www.innovation-salzburg.at/en/projekt/exdigit/) and [Salzburg Research](https://www.salzburgresearch.at/2024/kooperation-fuer-interdisziplinaere-forschung-in-salzburg/).
 
 
 Contact me at [narges.mehran@plus.ac.at](mailto:narges.mehran@plus.ac.at).
