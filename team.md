@@ -15,6 +15,14 @@ A computer scientist and engineer from the heart with long-standing experience i
 
 For more information, see his [profile page](/team/fp).
 
+### [Dr. Narges Mehran](/team/nm)
+
+**Research Associate (PostDoc)**
+
+Narges is research associate (PostDoc) at Salzburg Research and associated member of the PEPSys group at Paris Lodron University of Salzburg. Her research focuses on real-world distributed technologies, energy efficiency, grid greening, and electrifying everything. 
+
+More information is available at her [profile page](/team/nm).
+
 ### [MSc. Nicola Leschke](/team/nl)
 
 **Research Associate**
