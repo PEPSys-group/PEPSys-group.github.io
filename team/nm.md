@@ -5,7 +5,7 @@ permalink: /team/nm
 ---
 
 
-I am an EXDIGIT Research Associate (PostDoc) at Salzburg Research and associated member of the Privacy Engineering and Policy-Aligned Systems (PEPSys) group at the Paris Lodron University of Salzburg’s faculty for Digital and Analytical Sciences, Austria. My research focuses on real-world distributed technologies, energy efficiency, grid greening, and electrifying everything. This particularly includes:
+I am an EXDIGIT Research Associate (PostDoc) at Salzburg Research and associated member of the Privacy Engineering and Policy-aligned Systems (PEPSys) group at the Paris Lodron University of Salzburg’s faculty for Digital and Analytical Sciences, Austria. My research focuses on real-world distributed technologies, energy efficiency, grid greening, and electrifying everything. This particularly includes:
 
 * Anomaly detection in distributed computing by applying the ML models,
 * Novel technical concepts, mechanisms, and components fostering electricity consumption enhancement and beyond
