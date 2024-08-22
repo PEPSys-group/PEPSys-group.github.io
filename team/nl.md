@@ -21,7 +21,9 @@ Contact me at [nicola.leschke@plus.ac.at](mailto:nicola.leschke@plus.ac.at)
 
 # List of Publications
 
-Leschke, N., Kirsten, F., Pallas, F., Grünewald, E., 2023. [**Streamlining personal data access requests: From obstructive procedures to automated web workflows**](https://doi.org/10.1007/978-3-031-34444-2_9). Web Engineering. ICWE 2023, pp. 111-125.
+Leschke, N., Pöhn, D., Pallas, F, 2024. [**How to Drill into Silos: Creating a Free-to-Use Dataset of Data Subject Access Packages**](https://link.springer.com/chapter/10.1007/978-3-031-68024-3_7). Privacy Technologies and Policy. APF 2024, pp. 132-155.
+
+Leschke, N., Kirsten, F., Pallas, F., Grünewald, E., 2023. [**Streamlining Personal Data Access Requests: From Obstructive Procedures to Automated Web Workflows**](https://doi.org/10.1007/978-3-031-34444-2_9). Web Engineering. ICWE 2023, pp. 111-125.
 
 Gebauer, M., Maschhur, F., Leschke, N., Grünewald, E., Pallas, F., 2023. [**A ‘Human-in-the-Loop’ Approach for Information Extraction from Privacy Policies under Data Scarcity**](https://doi.org/10.1109/EuroSPW59978.2023.00014). 2023 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), pp. 76-83.
 
