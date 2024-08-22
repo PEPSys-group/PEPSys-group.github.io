@@ -27,7 +27,7 @@ Leschke, N., Kirsten, F., Pallas, F., Grünewald, E., 2023. [**Streamlining Pers
 
 Gebauer, M., Maschhur, F., Leschke, N., Grünewald, E., Pallas, F., 2023. [**A ‘Human-in-the-Loop’ Approach for Information Extraction from Privacy Policies under Data Scarcity**](https://doi.org/10.1109/EuroSPW59978.2023.00014). 2023 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), pp. 76-83.
 
-Grünewald, E., Halkenhäußer, J., Leschke, N., Washington, J., Paupini, C., Pallas, F., 2023. [**Enabling Versatile Privacy Interfaces Using Machine-Readable Transparency Information**](https://doi.org/10.1007/978-3-031-44939-0_7). Privacy Symposium 2023, pp- 119-137.
+Grünewald, E., Halkenhäußer, J., Leschke, N., Washington, J., Paupini, C., Pallas, F., 2023. [**Enabling Versatile Privacy Interfaces Using Machine-Readable Transparency Information**](https://doi.org/10.1007/978-3-031-44939-0_7). Privacy Symposium 2023, pp. 119-137.
 
 Grünewald, E., Halkenhäußer, J., Leschke, N., Pallas, F., 2023. [**Towards Cross-Provider Analysis of Transparency Information for Data Protection**](https://arxiv.org/abs/2309.00382).
 
