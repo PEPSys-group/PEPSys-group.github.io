@@ -15,29 +15,13 @@ A computer scientist and engineer from the heart with long-standing experience i
 
 For more information, see his [profile page](/team/fp).
 
-### [Mahdi Akil, PhD](/team/ma)
-
-**Research Associate (PostDoc)**
-
-Mahdi is a research associate (PostDoc) at Paris Lodron University of Salzburg and member of the PEPSys group. His research focuses on the development of privacy-preserving technologies in particular with zero-knowledge proofs and attribute based credentials.
-
-For more information, check [here](\team\ma).
-
-### [Nicola Leschke, M.Sc.](/team/nl)
+### [MSc. Nicola Leschke](/team/nl)
 
 **Research Associate**
 
 Nicola is research associate in the PEPSys group at Paris Lodron University of Salzburg and conducts research in the domain of Privacy Engineering, particularly focusing on the right to data access and data portability as well as on transparency.
 
 More information available [here](/team/nl).
-
-### [Dr. Narges Mehran (associated member)](/team/nm)
-
-**Research Associate (PostDoc)**
-
-Narges is research associate (PostDoc) at Salzburg Research and associated member of the PEPSys group at Paris Lodron University of Salzburg. Her research focuses on real-world distributed technologies, energy efficiency, grid greening, and electrifying everything. 
-
-More information is available at her [profile page](/team/nm).
 
 ### [You](https://en.wikipedia.org/wiki/You_%28Time_Person_of_the_Year%29#/media/File:Time_youcover01.jpg)
 
