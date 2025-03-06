@@ -1,5 +1,5 @@
 ---
-title: Dr. Mahdi Akil
+title: Mahdi Akil, PhD
 description: Mahdi is a Post-doc researcher and part of the Privacy Engineering and Policy-Aligned Systems (PEPSys) group at the Paris Lodron University of Salzburg. His research interests primarily centers around cybersecurity, with a particular focus on the Internet of Things (IoT) and the development of privacy-preserving technologies.
 permalink: /team/ma
 ---
