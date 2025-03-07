@@ -21,7 +21,7 @@ For more information, see his [profile page](/team/fp).
 
 Mahdi is a research associate (PostDoc) at Paris Lodron University of Salzburg and member of the PEPSys group. His research focuses on the development of privacy-preserving technologies in particular with zero-knowledge proofs and attribute based credentials.
 
-For more information, check [here](\team\ma).
+For more information, check his [profile](\team\ma).
 
 ### [Nicola Leschke, M.Sc.](/team/nl)
 
