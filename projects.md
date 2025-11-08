@@ -26,7 +26,23 @@ The PEPSys @ PLUS group focuses on the technical aspects, particularly the selec
 * Funded by: Land Salzburg
 * Project duration: 01/2026 - 12/2028
 * Involved PEPSys members and role: [Frank Pallas](/team/fp) (PI), N.N.
- 
+
+### DAWN
+
+**Data-driven Analysis and Optimization of Low Voltage Networks**
+
+DAWN's goal is to optimize resource utilization in the energy system through digitalization and the effective use of data. The project aims to create a high-quality data foundation that can be used for more accurate forecasts and targeted resource allocation. To this end, a reliable database will be created through the collection and analysis of measured values, such as smart meter data or additional measurements in the low-voltage grid. This data will contribute to improving grid calculations and forecasts. Furthermore, initial data-driven analysis and forecasting models are being developed, and optimization potential is being identified. The research questions are aimed at both grid operators and energy suppliers, thus creating the basis for an innovation ecosystem in the smart grid. 
+
+For grid operators, the research investigates how smart meter data can be used to gain a better understanding of the impact of customer installations on the grid. Key questions include the identification of installation characteristics (e.g., photovoltaic systems, electric vehicle charging points) and their influence on grid behavior. The goal is to improve synthetic load and generation profiles and to analyze customer elasticity. For energy suppliers, the research investigates how representative real-time data can be used to better forecast residual load (as part of the total load of the balancing group) in energy trading. Key questions concern the selection and number of customer installations whose live data should be collected, as well as the seasonal and situational fluctuations in the required data sources.
+
+The PEPSys @ PLUS group researches the application of privacy techniques – esp. anonymization schemes – to the employed data and conducts experiments illuminating the interdependencies between anonymization and data utility, particularly supporting empirically grounded trade-offs. 
+
+* Partners: Salzburg Research, FH Salzburg, SALZBURG AG, Salzburg Netz GmbH, Innsbrucker Kommunalbetriebe, TINETZ-Tiroler Netze GmbH
+* Overall Funding: 460k €
+* Funded by: Land Salzburg
+* Project duration: 01/2025 - 12/2026
+* Involved PEPSys members and role: [Frank Pallas](/team/fp) (PI), N.N.
+
 ### EXDIGIT 
 
 [**Excellence in Digital Sciences and Interdisciplinary Technologies**](https://www.plus.ac.at/digital-and-analytical-sciences/fachbereiche-einrichtungen/einrichtungen/exdigit/?lang=en)
