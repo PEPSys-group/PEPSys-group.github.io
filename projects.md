@@ -7,8 +7,26 @@ permalink: /projects
 
 Recently established in our new environment in Salzburg, we are currently looking for new national and international project opportunities as well as other collaborations with partners from research and industry. Interested in joint activities along our [lines of research](/research)? [Get in touch](mailto:frank.pallas@plus.ac.at)!
 
-## Current projects
+## Current projects (most recently started first)
 
+### RAPID
+
+**Reliable AI for Public Law and Intelligent Decision-making**
+
+Public administration is under pressure to fulfill an increasing number of tasks with shrinking budgets while maintaining reasonable processing times and high decision quality. Modern off-the-shelf Large Language Models (LLMs; e.g., Llama, Mistral) offer significant potential to enhance efficiency in administrative procedures.
+
+By combining expertise from diverse legal domains (e.g., fundamental rights, data protection law, AI law) and computer science (e.g., applied AI research, privacy engineering), RAPID lays the legal and technical foundations for the responsible and robust use of AI, particularly LLMs, in administrative procedures.
+
+Specifically, RAPID aims to identify, train, adapt, and test suitable LLMs for specific use cases in public administration. Each of these steps requires extensive legal analysis, encompassing, inter alia, fundamental rights, data protection law, and AI law. RAPID selects two areas of private sector administration ("Privatwirtschaftsverwaltung") and two areas of sovereign administration ("Hoheitsverwaltung") to account for different legal and technical frameworks. Together with our associated partner, Land Salzburg, heating cost allowance, housing subsidies, pest control orders under the Austrian Forest Act, and the new Austrian Freedom of Information Act have been identified as promising and consciously diverse (in terms of subjects, legal givens, and complexity) fields of application. This selection and the project’s interdisciplinary approach ensure that its findings are not only robust but also broadly transferable to other areas of public administration.
+
+The PEPSys @ PLUS group focuses on the technical aspects, particularly the selection, adaptation, and assessment of LLMs, respective axperimentation, and prototyping. Soundly integrating these with perspectives from the second scientific partner will lead to novel techno-legal insights for the responsible use of AI in the public sector.
+
+* Partners: [Department of Public Law, Prof. Krempelmeier](https://www.plus.ac.at/oeffentliches-recht/fachbereich/verfassungs-und-verwaltungsrecht/mitarbeiterinnen-vvr/krempelmeier/), Land Salzburg (supporting partner without own funding or duties)
+* Overall Funding: 590k €
+* Funded by: Land Salzburg
+* Project duration: 01/2026 - 12/2028
+* Involved PEPSys members and role: [Frank Pallas](/team/fp) (PI), N.N.
+ 
 ### EXDIGIT 
 
 [**Excellence in Digital Sciences and Interdisciplinary Technologies**](https://www.plus.ac.at/digital-and-analytical-sciences/fachbereiche-einrichtungen/einrichtungen/exdigit/?lang=en)
