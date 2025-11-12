@@ -19,7 +19,7 @@ For further and always up-to-date information, visit my profiles on [Google Scho
 
 Contact me at [nicola.leschke@plus.ac.at](mailto:nicola.leschke@plus.ac.at)
 
-# List of Publications
+# Selected Publications
 
 Leschke, N., Pöhn, D., Pallas, F., 2024. [**How to Drill into Silos: Creating a Free-to-Use Dataset of Data Subject Access Packages**](https://link.springer.com/chapter/10.1007/978-3-031-68024-3_7). Privacy Technologies and Policy. APF 2024, pp. 132-155.
 
