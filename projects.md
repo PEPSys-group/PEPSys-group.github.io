@@ -9,6 +9,20 @@ Recently established in our new environment in Salzburg, we are currently lookin
 
 ## Current projects (most recently started first)
 
+### FTZ Cybersecurity
+
+**Research and Transfer Center for Data-Driven Evaluation of Security- and Privacy-Technologies**
+
+The overall goal of the research and transfer center is to establish and implement broad, non-discriminatory, and openly accessible  knowledge on cybersecurity and privacy, particularly including technology transfer for the public, policymakers, regional companies, and students of partner organizations across the Salzburg region, thereby enhancing the region's profile. The independent, cooperative research and transfer center for excellent, fundamental and applied research will synergistically integratie of existing research groups and activities in the involved research institutions following the idea of smart specialisation. Last but not least, the center will contribute to profile development, specialization, and visibility of the research institutions in this domain and promote long-term and sustainable personnel development in the R&D sector.
+
+The PEPSys @ PLUS group will particularly engage in the transfer of privacy aproaches and technologies towards practical application in real-world enterprise-grade systems and in establishing solid techno-legal assessment models.
+
+* Partners: FH Salzburg
+* Overall Funding: ca. 3,0M €
+* Funded by: EU EFRE / Austrie Wirtschaftsservice, Land Salzburg
+* Project duration: 01/2026 - 12/2028
+* Involved PEPSys members and role: [Frank Pallas](/team/fp) (PI), N.N.
+
 ### RAPID
 
 **Reliable AI for Public Law and Intelligent Decision-making**
