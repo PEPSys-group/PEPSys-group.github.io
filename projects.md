@@ -13,11 +13,11 @@ Recently established in our new environment in Salzburg, we are currently lookin
 
 **Research and Transfer Center for Data-Driven Evaluation of Security- and Privacy-Technologies**
 
-The overall goal of the research and transfer center is to establish and implement broad, non-discriminatory, and openly accessible knowledge on cybersecurity and privacy, particularly including technology transfer for the public, policymakers, regional companies, and students of partner organizations across the Salzburg region. The independent, cooperative research and transfer center for will synergistically integrate existing research groups and activities in the involved institutions, following the idea of smart specialization. Last but not least, the center will contribute to profile development, specialization, and visibility of the research institutions in this domain and promote long-term and sustainable personnel development in the R&D sector.
+The overall goal of the research and transfer center for Data-Driven Evaluation of Security- and Privacy-Technologies is to establish and implement broad, non-discriminatory, and openly accessible knowledge on cybersecurity and privacy. Its activities particularly include technology transfer for the public, policymakers, regional companies, and students of partner organizations across the Salzburg region. The independent, cooperative research and transfer center will synergistically integrate existing research groups and activities in the involved institutions, following the idea of smart specialization. Last but not least, the center will contribute to profile development, specialization, and visibility of the research institutions in this domain and promote long-term and sustainable personnel development in the R&D sector.
 
 The PEPSys @ PLUS group will particularly engage in the transfer of privacy approaches and technologies towards practical application in real-world enterprise-grade systems and in establishing solid techno-legal assessment models.
 
-* Partners: FH Salzburg
+* Partners: [FH Salzburg](https://www.fh-salzburg.ac.at/forschung/forschungszentren/zentrum-fuer-sichere-energieinformatik)
 * Overall Funding: ca. 3,0M €
 * Funded by: EU EFRE / Austria Wirtschaftsservice, Land Salzburg
 * Project duration: 01/2026 - 12/2028
@@ -27,9 +27,7 @@ The PEPSys @ PLUS group will particularly engage in the transfer of privacy appr
 
 **Reliable AI for Public Law and Intelligent Decision-making**
 
-Public administration is under pressure to fulfill an increasing number of tasks with shrinking budgets while maintaining reasonable processing times and high decision quality. Modern off-the-shelf Large Language Models (LLMs; e.g., Llama, Mistral) offer significant potential to enhance efficiency in administrative procedures.
-
-By combining expertise from diverse legal domains (e.g., fundamental rights, data protection law, AI law) and computer science (e.g., applied AI research, privacy engineering), RAPID lays the legal and technical foundations for the responsible and robust use of AI, particularly LLMs, in administrative procedures.
+Public administration is under pressure to fulfill an increasing number of tasks with shrinking budgets while maintaining reasonable processing times and high decision quality. Modern off-the-shelf Large Language Models (LLMs; e.g., Llama, Mistral) offer significant potential to enhance efficiency in administrative procedures. By combining expertise from diverse legal domains (e.g., fundamental rights, data protection law, AI law) and computer science (e.g., applied AI research, privacy engineering), RAPID lays the legal and technical foundations for the responsible and robust use of AI, particularly LLMs, in administrative procedures.
 
 Specifically, RAPID aims to identify, train, adapt, and test suitable LLMs for specific use cases in public administration. Each of these steps requires extensive legal analysis, encompassing, inter alia, fundamental rights, data protection law, and AI law. RAPID selects two areas of private sector administration ("Privatwirtschaftsverwaltung") and two areas of sovereign administration ("Hoheitsverwaltung") to account for different legal and technical frameworks. Together with our associated partner, Land Salzburg, heating cost allowance, housing subsidies, pest control orders under the Austrian Forest Act, and the new Austrian Freedom of Information Act have been identified as promising and consciously diverse (in terms of subjects, legal givens, and complexity) fields of application. This selection and the project’s interdisciplinary approach ensure that its findings are not only robust but also broadly transferable to other areas of public administration.
 
@@ -51,7 +49,7 @@ For grid operators, the research investigates how smart meter data can be used t
 
 The PEPSys @ PLUS group researches the application of privacy techniques – esp. anonymization schemes – to the employed data and conducts experiments illuminating the interdependencies between anonymization and data utility, particularly supporting empirically grounded trade-offs. 
 
-* Partners: Salzburg Research, FH Salzburg, SALZBURG AG, Salzburg Netz GmbH, Innsbrucker Kommunalbetriebe, TINETZ-Tiroler Netze GmbH
+* Partners: [Salzburg Research (Austria)](https://www.salzburgresearch.at/), [FH Salzburg](https://www.fh-salzburg.ac.at/forschung/forschungszentren/zentrum-fuer-sichere-energieinformatik), SALZBURG AG, Salzburg Netz GmbH, Innsbrucker Kommunalbetriebe, TINETZ-Tiroler Netze GmbH
 * Overall Funding: 460k €
 * Funded by: Land Salzburg
 * Project duration: 01/2025 - 12/2026
