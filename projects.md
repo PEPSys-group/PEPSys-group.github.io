@@ -66,7 +66,7 @@ In 2022, the Paris Lodron University of Salzburg (PLUS) established the new Facu
 * Overall Funding: 12.8 mio €
 * Funded by: Land Salzburg
 * Project duration: 04/2022 - 03/2028
-* Involved PEPSys members and role: [Frank Pallas](/team/fp) (EXDIGIT professor), [Narges Mehran](/team/nm) (research associate), [Nicola Leschke](/team/nl) (research associate)
+* Involved PEPSys members and role: [Frank Pallas](/team/fp) (EXDIGIT professor), [Narges Mehran](/team/nm) (research associate), [Nicola Leschke](/team/nl) (research associate), [Mahdi Akil](/team/ma) (research associate)
 
 
 ---
