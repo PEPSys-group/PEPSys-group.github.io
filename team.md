@@ -23,6 +23,14 @@ Mahdi is a research associate (PostDoc) at Paris Lodron University of Salzburg a
 
 For more information, check his [profile](\team\ma).
 
+### [Dr. Narges Mehran ](/team/nm)
+
+**Research Associate (PostDoc)**
+
+Narges is research associate (PostDoc) at Salzburg Research within the EXDIGIT initiative and a member of the PEPSys group at Paris Lodron University of Salzburg. Her research focuses on real-world distributed technologies, energy efficiency, grid greening, and electrifying everything. 
+
+More information is available at her [profile page](/team/nm).
+
 ### [Nicola Leschke, M.Sc.](/team/nl)
 
 **Research Associate**
@@ -31,13 +39,11 @@ Nicola is research associate in the PEPSys group at Paris Lodron University of S
 
 More information available [here](/team/nl).
 
-### [Dr. Narges Mehran (associated member)](/team/nm)
+### [Pia Neuwirth, B.Sc.](/team/pn)
 
-**Research Associate (PostDoc)**
-
-Narges is research associate (PostDoc) at Salzburg Research and associated member of the PEPSys group at Paris Lodron University of Salzburg. Her research focuses on real-world distributed technologies, energy efficiency, grid greening, and electrifying everything. 
-
-More information is available at her [profile page](/team/nm).
+ ** Student Assistant**
+ 
+Pia is a Data Science master’s student and a student assistant in the PEPSys group at Paris Lodron University Salzburg. She is currently working on her master’s thesis within the team in which she explores alignment methods for large language models, focusing particularly on their evaluation.
 
 ### [You](https://en.wikipedia.org/wiki/You_%28Time_Person_of_the_Year%29#/media/File:Time_youcover01.jpg)
 
