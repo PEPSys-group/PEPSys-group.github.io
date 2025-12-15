@@ -5,8 +5,8 @@ permalink: /team/pn
 ---
 
 I am a master’s student in Data Science and a student assistant in the PEPSys group at Paris Lodron University of Salzburg. I am currently working on my master’s thesis within the team in which I explore alignment methods for large language models, focusing particularly on their evaluation. This includes:
-•	Design of an experimentation framework that enables reproducible and transparent evaluation of LLM alignment methods,
-•	Development of an LLM-based application as a practical test use case.
+* Design of an experimentation framework that enables reproducible and transparent evaluation of LLM alignment methods,
+* Development of an LLM-based application as a practical test use case.
 These activities are part of the RAPID [project](/projects).
 Contact me at [pia.neuwirth@stud.plus.ac.at](mailto:pia.neuwirth@stud.plus.ac.at) or through [LinkedIn](https://www.linkedin.com/in/pia-neuwirth/).
  
