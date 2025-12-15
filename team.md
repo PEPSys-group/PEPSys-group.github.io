@@ -41,8 +41,8 @@ More information available [here](/team/nl).
 
 ### [Pia Neuwirth, B.Sc.](/team/pn)
 
- ** Student Assistant**
- 
+ **Student Assistant**
+
 Pia is a Data Science master’s student and a student assistant in the PEPSys group at Paris Lodron University Salzburg. She is currently working on her master’s thesis within the team in which she explores alignment methods for large language models, focusing particularly on their evaluation.
 
 ### [You](https://en.wikipedia.org/wiki/You_%28Time_Person_of_the_Year%29#/media/File:Time_youcover01.jpg)
