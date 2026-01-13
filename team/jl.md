@@ -13,7 +13,7 @@ I am a Research Associate (PostDoc) in the Privacy Engineering and Policy-Aligne
 * domain-specific approaches for anonymization and privacy-preserving analytics of electricity data
 
 
-As part of the [DAWN](https://pepsys-group.github.io/projects#dawn) (**D**ata-driven **A**nalysis and Optimization of Lo**w** Voltage **N**etworks) project I investigate the impact of privacy-enhancing technologies (esp. anonymization) on the utility of power data.
+As part of the [DAWN](../projects#dawn) (**D**ata-driven **A**nalysis and Optimization of Lo**w** Voltage **N**etworks) project I investigate the impact of privacy-enhancing technologies (esp. anonymization) on the utility of power data.
 
 Contact me at [jens.leicht@plus.ac.at.](mailto:jens.leicht@plus.ac.at).
 
@@ -32,4 +32,4 @@ Contact me at [jens.leicht@plus.ac.at.](mailto:jens.leicht@plus.ac.at).
 I received my Master’s degree in *Applied Computer Science* (specialization in distributed, dependable systems) from the University of Duisburg-Essen in 2018.
 My Master's thesis, titled *Privacy Policy Specification Framework for Addressing End-Users' Privacy Requirements*, sparked my interest in the privacy and data protection field.
 In 2025 I successfully defended by PhD (Dr.-Ing.) with the title *PriPoCoG: A Prolog-Based Framework for Handling GDPR-Compliant Privacy Policies* at the [distributed systems research group](https://vs.uni-due.de/en/person/leicht/) at the University of Duisburg-Essen.
-In January 2026, I joined the [DAWN](https://pepsys-group.github.io/projects#dawn) (**D**ata-driven **A**nalysis and Optimization of Lo**w** Voltage **N**etworks) project as a research associate (PostDoc) at the Paris Lodron University of Salzburg, Austria.
+In January 2026, I joined the [DAWN](../projects#dawn) (**D**ata-driven **A**nalysis and Optimization of Lo**w** Voltage **N**etworks) project as a research associate (PostDoc) at the Paris Lodron University of Salzburg, Austria.
