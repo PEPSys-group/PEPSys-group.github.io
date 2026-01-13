@@ -37,7 +37,7 @@ The PEPSys @ PLUS group focuses on the technical aspects, particularly the selec
 * Overall Funding: 590k €
 * Funded by: Land Salzburg
 * Project duration: 01/2026 - 12/2028
-* Involved PEPSys members and role: [Frank Pallas](/team/fp) (PI), N.N.
+* Involved PEPSys members and role: [Frank Pallas](/team/fp) (PI), [Pia Neuwirth](/team/pn) (student assistant) and [Martin Wiesinger](/team/mw) (student assistant)
 
 ### DAWN
 
@@ -53,7 +53,7 @@ The PEPSys @ PLUS group researches the application of privacy techniques – esp
 * Overall Funding: 460k €
 * Funded by: Land Salzburg
 * Project duration: 01/2025 - 12/2026
-* Involved PEPSys members and role: [Frank Pallas](/team/fp) (PI), N.N.
+* Involved PEPSys members and role: [Frank Pallas](/team/fp) (PI), [Jens Leicht](/team/jl) (research associate)
 
 ### EXDIGIT 
 
