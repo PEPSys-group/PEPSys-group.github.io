@@ -23,6 +23,14 @@ Mahdi is a research associate (PostDoc) at Paris Lodron University of Salzburg a
 
 For more information, check his [profile](\team\ma).
 
+### [Dr.-Ing. Jens Leicht](/team/jl)
+
+**Research Associate**
+
+Jens is a research associate (PostDoc) at Paris Lodron University of Salzburg and member of the PEPSys group. His research focuses on privacy-preserving processing of energy data from smart meters and metrics-based privacy-utility trade-offs.
+
+For more information, check his [profile](/team/jl).
+
 ### [Dr. Narges Mehran ](/team/nm)
 
 **Research Associate (PostDoc)**
