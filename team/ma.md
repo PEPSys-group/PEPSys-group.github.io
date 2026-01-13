@@ -10,7 +10,7 @@ I am an EXDIGIT Research Associate (PostDoc) in the Privacy Engineering and Poli
 * developing adaptive security policies that adjust trust boundaries based on changing contexts, reducing reliance on any single component in distributed infrastructures.
 * creating flexible cryptographic protocols tailored to the diverse resource constraints and threat levels found across modern edge and IoT ecosystems.
 
-Under the umbrella of the interdisciplinary EXDIGIT initiative, I aim to bridge my research in the context of applied cryptography, zero-trust models, and distributed system performance into the wider area of privacy engineering and policy-aligned systems.
+Under the umbrella of the interdisciplinary [EXDIGIT](../projects#exdigit) initiative, I aim to bridge my research in the context of applied cryptography, zero-trust models, and distributed system performance into the wider area of privacy engineering and policy-aligned systems.
 
 Contact me at [mahdi.akil@plus.ac.at](mailto:mahdi.akil@plus.ac.at).
 
