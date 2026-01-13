@@ -13,8 +13,7 @@ In particular, this includes the following challenges and approaches:
 * Heterogeneous data representation, unified through graph inference methods.
 * Missing interoperability, addressed by techniques of data integration, specifically schema matching.
 
-In 2024, I joined the PEPSys group at the Paris Lodron University of Salzburg’s faculty for Digital and Analytical Sciences. Previously, I worked as a research associate at the [Information Systems Engineering](https://www.tu.berlin/ise) department of TU Berlin. Within my work at TU Berlin, I discovered my passion for privacy engineering in the context of the [DaSKITA project](https://www.tu.berlin/ise/projekte/daskita), which was focused on legally compliant and user-friendly design of transparency and data access rights. Moreover, I was involved in teaching at bachelor and master level (esp. "Information Governance" and "Cloud Native Architecture and Engineering").
-In 2022 I completed my studies of Information Systems Management at TU Berlin with a master thesis on "Privacy-Preserving Automated Schema Matching in a Distributed Setting".
+Within the [EXDIGIT](https://exdigit.plus.ac.at/) project, I strengthen interdisciplinary research, with a focus on techno-legal research in the domain of privacy and data protection, evident e.g. by the public lecture series [Privatheit in der digitalen Welt](www.plus.ac.at/datenschutz-und-informationsfreiheit/ringvorlesung/) (privacy in a digital world). Moreover, we bring privacy engineering to other disciplines and domains, e.g. HCI perspectives on automotive driving (Demir et al. [2025](https://dl.acm.org/doi/full/10.1145/3744335.3758509)).
 For further and always up-to-date information, visit my profiles on [Google Scholar](https://scholar.google.de/citations?user=n-MsKQUAAAAJ&hl=de) and [LinkedIn](https://www.linkedin.com/in/nicolaleschke).
 
 Contact me at [nicola.leschke@plus.ac.at](mailto:nicola.leschke@plus.ac.at)
@@ -30,6 +29,20 @@ Gebauer, M., Maschhur, F., Leschke, N., Grünewald, E., Pallas, F., 2023. [**A �
 Grünewald, E., Halkenhäußer, J., Leschke, N., Washington, J., Paupini, C., Pallas, F., 2023. [**Enabling Versatile Privacy Interfaces Using Machine-Readable Transparency Information**](https://doi.org/10.1007/978-3-031-44939-0_7). Privacy Symposium 2023, pp. 119-137.
 
 Grünewald, E., Halkenhäußer, J., Leschke, N., Pallas, F., 2023. [**Towards Cross-Provider Analysis of Transparency Information for Data Protection**](https://arxiv.org/abs/2309.00382).
+
+# Conference Organization
+- Program Chair for the Annual Privacy Forum 2026 ([APF](https://privacyforum.eu/)), together with [Frank Pallas](/fp)
+- Co-organizer of PET-con 2025.2 ([PET-con](https://fg-pet.gi.de/mitteilung/pet-con-20252-an-der-universitaet-salzburg))
+
+# Reviewing Activities 
+*PC memberships only*
+- 2025 International Workshop on Privacy Engineering ([IWPE](https://www.iwpe.info/))
+- 2026 International Workshop on Privacy Engineering ([IWPE](https://www.iwpe.info/))
+- IFIP Summer School on Privacy and Identity Management 2026 ([IFIPSC](https://ifip-summerschool.github.io/))
+
+# Micro-CV
+In 2024, I joined the PEPSys group at the Paris Lodron University of Salzburg’s faculty for Digital and Analytical Sciences. Previously, I worked as a research associate at the [Information Systems Engineering](https://www.tu.berlin/ise) department of TU Berlin. Within my work at TU Berlin, I discovered my passion for privacy engineering in the context of the [DaSKITA project](https://www.tu.berlin/ise/projekte/daskita), which was focused on legally compliant and user-friendly design of transparency and data access rights. Moreover, I was involved in teaching at bachelor and master level (esp. "Information Governance" and "Cloud Native Architecture and Engineering").
+In 2022 I completed my studies of Information Systems Management at TU Berlin with a master thesis on "Privacy-Preserving Automated Schema Matching in a Distributed Setting".
 
 
 
