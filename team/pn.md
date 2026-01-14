@@ -8,7 +8,7 @@ I am a master’s student in Data Science and a student assistant in the PEPSys 
 * Design of an experimentation framework that enables reproducible and transparent evaluation of LLM alignment methods,
 * Development of an LLM-based application as a practical test use case.
 
-These activities are part of the RAPID [project](../projects#rapid).
+These activities are part of the [RAPID](../projects#rapid) project.
 Contact me at [pia.neuwirth@plus.ac.at](mailto:pia.neuwirth@plus.ac.at) or through [LinkedIn](https://www.linkedin.com/in/pia-neuwirth/).
  
 ## Micro-CV

@@ -13,7 +13,7 @@ In particular, this includes the following challenges and approaches:
 * Heterogeneous data representation, unified through graph inference methods.
 * Missing interoperability, addressed by techniques of data integration, specifically schema matching.
 
-Within the [EXDIGIT](https://exdigit.plus.ac.at/) [project](../projects#exdigit), I strengthen interdisciplinary research, with a focus on techno-legal research in the domain of privacy and data protection, evident e.g. by the public lecture series [Privatheit in der digitalen Welt](www.plus.ac.at/datenschutz-und-informationsfreiheit/ringvorlesung/) (privacy in a digital world). Moreover, we bring privacy engineering to other disciplines and domains, e.g. HCI perspectives on automotive driving (Demir et al. [2025](https://dl.acm.org/doi/full/10.1145/3744335.3758509)).
+Within the [EXDIGIT](https://exdigit.plus.ac.at/) [project](../projects#exdigit), I strengthen interdisciplinary research, with a focus on techno-legal research in the domain of privacy and data protection, evident e.g. by the public lecture series [Privatheit in der digitalen Welt](https://www.plus.ac.at/datenschutz-und-informationsfreiheit/ringvorlesung/) (privacy in a digital world). Moreover, we bring privacy engineering to other disciplines and domains, e.g. HCI perspectives on automotive driving (Demir et al. [2025](https://dl.acm.org/doi/full/10.1145/3744335.3758509)).
 For further and always up-to-date information, visit my profiles on [Google Scholar](https://scholar.google.de/citations?user=n-MsKQUAAAAJ&hl=de) and [LinkedIn](https://www.linkedin.com/in/nicolaleschke).
 
 Contact me at [nicola.leschke@plus.ac.at](mailto:nicola.leschke@plus.ac.at)
@@ -31,7 +31,7 @@ Grünewald, E., Halkenhäußer, J., Leschke, N., Washington, J., Paupini, C., Pa
 Grünewald, E., Halkenhäußer, J., Leschke, N., Pallas, F., 2023. [**Towards Cross-Provider Analysis of Transparency Information for Data Protection**](https://arxiv.org/abs/2309.00382).
 
 # Conference Organization
-- Program Chair for the Annual Privacy Forum 2026 ([APF](https://privacyforum.eu/)), together with [Frank Pallas](/fp)
+- Program Chair for the Annual Privacy Forum 2026 ([APF](https://privacyforum.eu/)), together with [Frank Pallas](/team/fp)
 - Co-organizer of PET-con 2025.2 ([PET-con](https://fg-pet.gi.de/mitteilung/pet-con-20252-an-der-universitaet-salzburg))
 
 # Reviewing Activities 

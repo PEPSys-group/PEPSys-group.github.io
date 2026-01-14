@@ -30,5 +30,5 @@ Contact me at [mahdi.akil@plus.ac.at](mailto:mahdi.akil@plus.ac.at).
 
 # Micro-CV
 
-I received my Master’s degree in Networks and Security from Sapienza Università di Roma in 2018, developing novel techniques for data exfiltration and biometrics-based applications. I then got my doctoral degree in 2024 at Karlstad University, Sweden. During my PhD, I mostly focused on privacy-preserving cryptographic techniques for vehicular ad-hoc networks (VANETs). In March 2025, I was appointed as a post-doctoral researcher for EXDIGIT project by the University of Salzburg, Austria.
+I received my Master’s degree in Networks and Security from Sapienza Università di Roma in 2018, developing novel techniques for data exfiltration and biometrics-based applications. I then got my doctoral degree in 2024 at Karlstad University, Sweden. During my PhD, I mostly focused on privacy-preserving cryptographic techniques for vehicular ad-hoc networks (VANETs). In March 2025, I joined the EXDIGIT project as a post-doctoral researcher at the University of Salzburg, Austria.
 
