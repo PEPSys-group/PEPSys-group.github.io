@@ -4,8 +4,6 @@ description: Jens Leicht is a postdoctoral research associate at the Privacy Eng
 permalink: /team/jl
 ---
 
-# Jens Leicht
-
 I am a Research Associate (PostDoc) in the Privacy Engineering and Policy-Aligned Systems (PEPSys) group at the Paris Lodron University of Salzburg, Austria. My current research focuses on privacy-preserving processing of electricity data from smart meters. This particularly includes:
 
 * investigating the relation between anonymization and data utility in the context of electricity data
@@ -15,7 +13,7 @@ I am a Research Associate (PostDoc) in the Privacy Engineering and Policy-Aligne
 
 As part of the [DAWN](../projects#dawn) (**D**ata-driven **A**nalysis and Optimization of Lo**w** Voltage **N**etworks) project I investigate the impact of privacy-enhancing technologies (esp. anonymization) on the utility of power data.
 
-Contact me at [jens.leicht@plus.ac.at.](mailto:jens.leicht@plus.ac.at).
+Contact me at [jens.leicht@plus.ac.at](mailto:jens.leicht@plus.ac.at)
 
 ## Signature Publications
 
