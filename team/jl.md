@@ -17,6 +17,8 @@ Contact me at [jens.leicht@plus.ac.at](mailto:jens.leicht@plus.ac.at)
 
 ## Signature Publications
 
+* Leicht, Jens. [**PriPoCoG: A Prolog-Based Framework for Handling GDPR-Compliant Privacy Policies**](https://doi.org/10.17185/duepublico/84771), dissertation, 2026
+
 * Leicht, Jens and Lukasewycz, Julien and Heisel, Maritta. [**PriPoCoG: Empowering End-Users’ Data Protection Decisions**](https://doi.org/10.5220/0013478000003929) in International Conference on Enterprise Information Systems (ICEIS), 2025
 
 * Leicht, Jens and Wagner, Marvin and Heisel, Maritta. [**Creating Privacy Policies from Data-Flow Diagrams**](https://doi.org/10.1007/978-3-031-54204-6_26) in ESORICS 2023 International Workshops, 2023
