@@ -63,7 +63,7 @@ Martin is a Computer Science bachelor's student and a student assistant in the P
 
  **Student Assistant**
 
-Leon is starting his data science studies at the Paris Lodron University Salzburg and working as a student assistant in the PEPSys group. As part of the FTZ Cybersecurity Project, he explores how the passage of time affects the performance of malware detection models.
+Leon is in his data science MSc studies at the Paris Lodron University Salzburg and working as a student assistant in the PEPSys group. As part of the FTZ Cybersecurity Project, he experimentally assesses time effects of malware detection models as well as anonymity-utility trade-offs for modern anonymization schemes.
  
 
 ### [You](https://en.wikipedia.org/wiki/You_%28Time_Person_of_the_Year%29#/media/File:Time_youcover01.jpg)
