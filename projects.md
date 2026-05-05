@@ -21,7 +21,7 @@ The PEPSys @ PLUS group will particularly engage in the transfer of privacy appr
 * Overall Funding: ca. 3,0M €
 * Funded by: EU EFRE / Austria Wirtschaftsservice, Land Salzburg
 * Project duration: 01/2026 - 12/2028
-* Involved PEPSys members and role: [Frank Pallas](/team/fp) (PI), N.N.
+* Involved PEPSys members and role: [Frank Pallas](/team/fp) (PI), [Leon Andrassik](/team/la) (student assistant)
 
 ### RAPID
 
