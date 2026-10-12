@@ -5,7 +5,7 @@ description: The Privacy Engineering and Policy-Aligned Systems (PEPSys) group a
 permalink: /team
 ---
 
-The Privacy Engineering and Policy-Aligned Systems (PEPSys) group at Paris Lodron University of Salzburg was established in 2024 and is led by Univ.-Prof. Dr.-Ing. Frank Pallas. Meet him and our techno-legal research team!
+The Privacy Engineering and Policy-Aligned Systems (PEPSys) group at the University of Salzburg was established in 2024 and is led by Univ.-Prof. Dr.-Ing. Frank Pallas. Meet him and our techno-legal research team!
 
 ### [Univ.-Prof. Dr.-Ing. Frank Pallas](/team/fp) 
 
@@ -19,7 +19,7 @@ For more information, see his [profile page](/team/fp).
 
 **Research Associate (PostDoc)**
 
-Mahdi is a research associate (PostDoc) at Paris Lodron University of Salzburg and member of the PEPSys group. His research focuses on the development of privacy-preserving technologies in particular with zero-knowledge proofs and attribute based credentials.
+Mahdi is a research associate (PostDoc) at the University of Salzburg and member of the PEPSys group. His research focuses on the development of privacy-preserving technologies in particular with zero-knowledge proofs and attribute based credentials.
 
 For more information, check his [profile](\team\ma).
 
@@ -27,7 +27,7 @@ For more information, check his [profile](\team\ma).
 
 **Research Associate**
 
-Jens is a research associate (PostDoc) at Paris Lodron University of Salzburg and member of the PEPSys group. His research focuses on privacy-preserving processing of energy data from smart meters and metrics-based privacy-utility trade-offs.
+Jens is a research associate (PostDoc) at the University of Salzburg and member of the PEPSys group. His research focuses on privacy-preserving processing of energy data from smart meters and metrics-based privacy-utility trade-offs.
 
 For more information, check his [profile](/team/jl).
 
@@ -35,7 +35,7 @@ For more information, check his [profile](/team/jl).
 
 **Research Associate (PostDoc)**
 
-Narges is research associate (PostDoc) at Salzburg Research within the EXDIGIT initiative and a member of the PEPSys group at Paris Lodron University of Salzburg. Her research focuses on real-world distributed technologies, energy efficiency, grid greening, and electrifying everything. 
+Narges is research associate (PostDoc) at Salzburg Research within the EXDIGIT initiative and a member of the PEPSys group at the University of Salzburg. Her research focuses on real-world distributed technologies, energy efficiency, grid greening, and electrifying everything. 
 
 More information is available at her [profile page](/team/nm).
 
@@ -43,7 +43,7 @@ More information is available at her [profile page](/team/nm).
 
 **Research Associate**
 
-Nicola is research associate in the PEPSys group at Paris Lodron University of Salzburg and conducts research in the domain of Privacy Engineering, particularly focusing on the right to data access and data portability as well as on transparency.
+Nicola is research associate in the PEPSys group at the University of Salzburg and conducts research in the domain of Privacy Engineering, particularly focusing on the right to data access and data portability as well as on transparency.
 
 More information available [here](/team/nl).
 
@@ -51,19 +51,21 @@ More information available [here](/team/nl).
 
 **Research Associate**
 
-Pia is research associate in the PEPSys University Salzburg. She holds a Master in Data Science and is currently working on alignment methods for large language models and their experimental evaluation as well as on governance concepts in and for autonomous agent settings.
+Pia is research associate in the PEPSys University of Salzburg. She holds a Master in Data Science and is currently working on alignment methods for large language models and their experimental evaluation as well as on governance concepts in and for autonomous agent settings.
+
+Her personal profile resides [here](/team/pn).
 
 ### [Martin Wiesinger](/team/mw)
 
  **Student Assistant**
 
-Martin is a Computer Science bachelor's student and a student assistant in the PEPSys group at Paris Lodron University Salzburg. Within the RAPID project, he evaluates biases in large language models, especially with regard to gender and race.
+Martin is a Computer Science master's student and a student assistant in the PEPSys group at the University of Salzburg. Within the RAPID project, he evaluates biases in large language models, especially with regard to gender and race.
 
 ### [Leon Andrassik](/team/la)
 
  **Student Assistant**
 
-Leon is in his data science MSc studies at the Paris Lodron University Salzburg and working as a student assistant in the PEPSys group. As part of the FTZ Cybersecurity Project, he experimentally assesses time effects of malware detection models as well as anonymity-utility trade-offs for modern anonymization schemes.
+Leon is in his data science MSc studies at the University of Salzburg and working as a student assistant in the PEPSys group. As part of the FTZ Cybersecurity Project, he experimentally assesses time effects of malware detection models as well as anonymity-utility trade-offs for modern anonymization schemes.
  
 
 ### [You](https://en.wikipedia.org/wiki/You_%28Time_Person_of_the_Year%29#/media/File:Time_youcover01.jpg)
