@@ -47,11 +47,11 @@ Nicola is research associate in the PEPSys group at Paris Lodron University of S
 
 More information available [here](/team/nl).
 
-### [Pia Neuwirth, B.Sc.](/team/pn)
+### [Pia Neuwirth, M.Sc.](/team/pn)
 
- **Student Assistant**
+**Research Associate**
 
-Pia is a Data Science master’s student and a student assistant in the PEPSys group at Paris Lodron University Salzburg. She is currently working on her master’s thesis within the team in which she explores alignment methods for large language models, focusing particularly on their evaluation.
+Pia is research associate in the PEPSys University Salzburg. She holds a Master in Data Science and is currently working on alignment methods for large language models and their experimental evaluation as well as on governance concepts in and for autonomous agent settings.
 
 ### [Martin Wiesinger](/team/mw)
 
