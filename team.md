@@ -51,9 +51,9 @@ More information available [here](/team/nl).
 
 **Research Associate**
 
-Pia is research associate in the PEPSys University of Salzburg. She holds a Master in Data Science and is currently working on alignment methods for large language models and their experimental evaluation as well as on governance concepts in and for autonomous agent settings.
+Pia is a research associate in the PEPSys group and is currently working on her PhD in the field of autonomous AI systems. Particularly, her research focuses on experimental evaluation of large language models as well as on governance concepts in and for autonomous agent settings.
 
-Her personal profile resides [here](/team/pn).
+Find more information on her profile [here](/team/pn).
 
 ### [Martin Wiesinger](/team/mw)
 
