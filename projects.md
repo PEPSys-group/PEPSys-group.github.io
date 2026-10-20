@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Projects"
-description: The Privacy Engineering and Policy-Aligned Systems (PEPSys) group at Paris Lodron University of Salzburg is doing interdisciplinary research that bridges the gap between real-world technical givens and legal and policy-related regulations.
+description: The Privacy Engineering and Policy-Aligned Systems (PEPSys) group at the University of Salzburg is doing interdisciplinary research that bridges the gap between real-world technical givens and legal and policy-related regulations.
 permalink: /projects
 ---
 
@@ -15,7 +15,7 @@ Recently established in our new environment in Salzburg, we are currently lookin
 
 The overall goal of the research and transfer center for Data-Driven Evaluation of Security- and Privacy-Technologies is to establish and implement broad, non-discriminatory, and openly accessible knowledge on cybersecurity and privacy. Its activities particularly include technology transfer for the public, policymakers, regional companies, and students of partner organizations across the Salzburg region. The independent, cooperative research and transfer center will synergistically integrate existing research groups and activities in the involved institutions, following the idea of smart specialization. Last but not least, the center will contribute to profile development, specialization, and visibility of the research institutions in this domain and promote long-term and sustainable personnel development in the R&D sector.
 
-The PEPSys @ PLUS group will particularly engage in the transfer of privacy approaches and technologies towards practical application in real-world enterprise-grade systems and in establishing solid techno-legal assessment models.
+The PEPSys @ Uni Salzburg group will particularly engage in the transfer of privacy approaches and technologies towards practical application in real-world enterprise-grade systems and in establishing solid techno-legal assessment models.
 
 * Partners: [FH Salzburg](https://www.fh-salzburg.ac.at/forschung/forschungszentren/zentrum-fuer-sichere-energieinformatik)
 * Overall Funding: ca. 3,0M €
@@ -31,7 +31,7 @@ Public administration is under pressure to fulfill an increasing number of tasks
 
 Specifically, RAPID aims to identify, train, adapt, and test suitable LLMs for specific use cases in public administration. Each of these steps requires extensive legal analysis, encompassing, inter alia, fundamental rights, data protection law, and AI law. RAPID selects two areas of private sector administration ("Privatwirtschaftsverwaltung") and two areas of sovereign administration ("Hoheitsverwaltung") to account for different legal and technical frameworks. Together with our associated partner, Land Salzburg, heating cost allowance, housing subsidies, pest control orders under the Austrian Forest Act, and the new Austrian Freedom of Information Act have been identified as promising and consciously diverse (in terms of subjects, legal givens, and complexity) fields of application. This selection and the project’s interdisciplinary approach ensure that its findings are not only robust but also broadly transferable to other areas of public administration.
 
-The PEPSys @ PLUS group focuses on the technical aspects, particularly the selection, adaptation, and assessment of LLMs, respective experimentation, and prototyping. Soundly integrating these with perspectives from the second scientific partner will lead to novel techno-legal insights for the responsible use of AI in the public sector.
+The PEPSys @ Uni Salzburg group focuses on the technical aspects, particularly the selection, adaptation, and assessment of LLMs, respective experimentation, and prototyping. Soundly integrating these with perspectives from the second scientific partner will lead to novel techno-legal insights for the responsible use of AI in the public sector.
 
 * Partners: [Department of Public Law, Prof. Krempelmeier](https://www.plus.ac.at/oeffentliches-recht/fachbereich/verfassungs-und-verwaltungsrecht/mitarbeiterinnen-vvr/krempelmeier/), Land Salzburg (supporting partner without own funding or duties)
 * Overall Funding: 590k €
@@ -47,7 +47,7 @@ DAWN's goal is to optimize resource utilization in the energy system through dig
 
 For grid operators, the research investigates how smart meter data can be used to gain a better understanding of the impact of customer installations on the grid. Key questions include the identification of installation characteristics (e.g., photovoltaic systems, electric vehicle charging points) and their influence on grid behavior. The goal is to improve synthetic load and generation profiles and to analyze customer elasticity. For energy suppliers, the research investigates how representative real-time data can be used to better forecast residual load (as part of the total load of the balancing group) in energy trading. Key questions concern the selection and number of customer installations whose live data should be collected, as well as the seasonal and situational fluctuations in the required data sources.
 
-The PEPSys @ PLUS group researches the application of privacy techniques – esp. anonymization schemes – to the employed data and conducts experiments illuminating the interdependencies between anonymization and data utility, particularly supporting empirically grounded trade-offs. 
+The PEPSys @ Uni Salzburg group researches the application of privacy techniques – esp. anonymization schemes – to the employed data and conducts experiments illuminating the interdependencies between anonymization and data utility, particularly supporting empirically grounded trade-offs. 
 
 * Partners: [Salzburg Research (Austria)](https://www.salzburgresearch.at/), [FH Salzburg](https://www.fh-salzburg.ac.at/forschung/forschungszentren/zentrum-fuer-sichere-energieinformatik), SALZBURG AG, Salzburg Netz GmbH, Innsbrucker Kommunalbetriebe, TINETZ-Tiroler Netze GmbH
 * Overall Funding: 460k €
@@ -59,7 +59,7 @@ The PEPSys @ PLUS group researches the application of privacy techniques – esp
 
 [**Excellence in Digital Sciences and Interdisciplinary Technologies**](https://www.plus.ac.at/digital-and-analytical-sciences/fachbereiche-einrichtungen/einrichtungen/exdigit/?lang=en)
 
-In 2022, the Paris Lodron University of Salzburg (PLUS) established the new Faculty of Digital and Analytical Sciences (DAS). The EXDIGIT project aims to establish this newly founded faculty as an interdisciplinary research platform with critical mass and international visibility in the aforementioned digital topics. The PEPSys @ PLUS group is one piece within this initiative, along the "sibling" groups for [Interactive Intelligent Systems](https://christinebauer.eu/) and [Space and Place in the Information Sciences](https://www.space-and-place.net/) as well as many further activities.
+In 2022, the University of Salzburg established the new Faculty of Digital and Analytical Sciences (DAS). The EXDIGIT project aims to establish this newly founded faculty as an interdisciplinary research platform with critical mass and international visibility in the aforementioned digital topics. The PEPSys @ Uni Salzburg group is one piece within this initiative, along the "sibling" groups for [Interactive Intelligent Systems](https://christinebauer.eu/) and [Space and Place in the Information Sciences](https://www.space-and-place.net/) as well as many further activities.
 
 * Website: [https://www.plus.ac.at/digitale-und-analytische-wissenschaften/fachbereiche-einrichtungen/einrichtungen/exdigit/](https://www.plus.ac.at/digitale-und-analytische-wissenschaften/fachbereiche-einrichtungen/einrichtungen/exdigit/)
 * Partners: [Salzburg Research (Austria)](https://www.salzburgresearch.at/), [Innovation Salzburg (Austria)](https://www.innovation-salzburg.at/)
@@ -75,7 +75,7 @@ In 2022, the Paris Lodron University of Salzburg (PLUS) established the new Facu
 
 ## Past Projects
 
-Before joining PEPSys @ PLUS, our [team members](/team) were involved in the following projects at TU Berlin's [Information Systems Engineering group](https://www.tu.berlin/ise) (in chronological order, covering projects since 2017):
+Before joining PEPSys @ Uni Salzburg, our [team members](/team) were involved in the following projects at TU Berlin's [Information Systems Engineering group](https://www.tu.berlin/ise) (in chronological order, covering projects since 2017):
 
 ### GANGES
 

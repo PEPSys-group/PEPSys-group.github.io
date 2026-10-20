@@ -1,10 +1,10 @@
 ---
 title: Mahdi Akil, PhD
-description: Mahdi is a Post-doc researcher and part of the Privacy Engineering and Policy-Aligned Systems (PEPSys) group at the Paris Lodron University of Salzburg. His research interests primarily centers around cybersecurity, with a particular focus on the Internet of Things (IoT) and the development of privacy-preserving technologies.
+description: Mahdi is a Post-doc researcher and part of the Privacy Engineering and Policy-Aligned Systems (PEPSys) group at the University of Salzburg. His research interests primarily centers around cybersecurity, with a particular focus on the Internet of Things (IoT) and the development of privacy-preserving technologies.
 permalink: /team/ma
 ---
 
-I am an EXDIGIT Research Associate (PostDoc) in the Privacy Engineering and Policy-Aligned Systems (PEPSys) group at the Paris Lodron University of Salzburg, Austria. My research focuses on privacy-preserving authentication in vehicular ad-hoc networks and appying technologies such as zero-knowledge proofs and attribtue based credentials. This particularly includes:
+I am an EXDIGIT Research Associate (PostDoc) in the Privacy Engineering and Policy-Aligned Systems (PEPSys) group at the University of Salzburg, Austria. My research focuses on privacy-preserving authentication in vehicular ad-hoc networks and appying technologies such as zero-knowledge proofs and attribtue based credentials. This particularly includes:
 
 * designing short-lived credential systems that enable immediate accountability while preserving user privacy in vehicular and IoT networks.
 * developing adaptive security policies that adjust trust boundaries based on changing contexts, reducing reliance on any single component in distributed infrastructures.

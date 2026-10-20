@@ -1,6 +1,6 @@
 ---
 title: Leon Andrassik
-description: Leon Andrassik is a student assistant at the Privacy Engineering and Policy-Aligned Systems (PEPSys) group of Paris Lodron University of Salzburg since May 2026. His research is conducted within the FTZ Cybersecurity project and centered around automated malware detection.
+description: Leon Andrassik is a student assistant at the Privacy Engineering and Policy-Aligned Systems (PEPSys) group of the University of Salzburg since May 2026. His research is conducted within the FTZ Cybersecurity project and centered around automated malware detection.
 permalink: /team/la
 ---
 

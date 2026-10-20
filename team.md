@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Team"
-description: The Privacy Engineering and Policy-Aligned Systems (PEPSys) group at Paris Lodron University of Salzburg introduces its members. The interdisciplinary group is led by Prof. Frank Pallas,who came to Salzburg in 2024. 
+description: The Privacy Engineering and Policy-Aligned Systems (PEPSys) group at the University of Salzburg introduces its members. The interdisciplinary group is led by Prof. Frank Pallas, who came to Salzburg in 2024. 
 permalink: /team
 ---
 

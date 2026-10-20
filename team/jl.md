@@ -1,10 +1,10 @@
 ---
 title: Dr.-Ing. Jens Leicht
-description: Jens Leicht is a postdoctoral research associate at the Privacy Engineering and Policy-Aligned Systems (PEPSys) group of Paris Lodron University of Salzburg. His research interest is in the area of privacy engineering. His research spans from transparency enhancing technologies to privacy enhancing technologies, where he particularly focuses on privacy-utility trade-offs for anonymization schemes. Within the DAWN project, he applies his research to the context of electricity data.
+description: Jens Leicht is a postdoctoral research associate at the Privacy Engineering and Policy-Aligned Systems (PEPSys) group of the University of Salzburg. His research interest is in the area of privacy engineering. His research spans from transparency enhancing technologies to privacy enhancing technologies, where he particularly focuses on privacy-utility trade-offs for anonymization schemes. Within the DAWN project, he applies his research to the context of electricity data.
 permalink: /team/jl
 ---
 
-I am a Research Associate (PostDoc) in the Privacy Engineering and Policy-Aligned Systems (PEPSys) group at the Paris Lodron University of Salzburg, Austria. My current research focuses on privacy-preserving processing of electricity data from smart meters. This particularly includes:
+I am a Research Associate (PostDoc) in the Privacy Engineering and Policy-Aligned Systems (PEPSys) group at the University of Salzburg, Austria. My current research focuses on privacy-preserving processing of electricity data from smart meters. This particularly includes:
 
 * investigating the relation between anonymization and data utility in the context of electricity data
 * metrics-based privacy-utility trade-offs for general anonymization schemes
@@ -32,4 +32,4 @@ Contact me at [jens.leicht@plus.ac.at](mailto:jens.leicht@plus.ac.at)
 I received my Master’s degree in *Applied Computer Science* (specialization in distributed, dependable systems) from the University of Duisburg-Essen in 2018.
 My Master's thesis, titled *Privacy Policy Specification Framework for Addressing End-Users' Privacy Requirements*, sparked my interest in the privacy and data protection field.
 In 2025 I successfully defended by PhD (Dr.-Ing.) with the title *PriPoCoG: A Prolog-Based Framework for Handling GDPR-Compliant Privacy Policies* at the [distributed systems research group](https://vs.uni-due.de/en/person/leicht/) at the University of Duisburg-Essen.
-In January 2026, I joined the [DAWN](../projects#dawn) (**D**ata-driven **A**nalysis and Optimization of Lo**w** Voltage **N**etworks) project as a research associate (PostDoc) at the Paris Lodron University of Salzburg, Austria.
+In January 2026, I joined the [DAWN](../projects#dawn) (**D**ata-driven **A**nalysis and Optimization of Lo**w** Voltage **N**etworks) project as a research associate (PostDoc) at the University of Salzburg, Austria.

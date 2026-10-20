@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research"
-description: The Privacy Engineering and Policy-Aligned Systems (PEPSys) group at Paris Lodron University of Salzburg is doing interdisciplinary research that bridges the gap between real-world technical givens and legal and policy-related regulations.
+description: The Privacy Engineering and Policy-Aligned Systems (PEPSys) group at the University of Salzburg is doing interdisciplinary research that bridges the gap between real-world technical givens and legal and policy-related regulations.
 permalink: /research
 ---
 

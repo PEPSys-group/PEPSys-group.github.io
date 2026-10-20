@@ -1,11 +1,11 @@
 ---
 title: "Home"
 layout: page
-decription: The Privacy Engineering and Policy-Aligned Systems Group at Paris Lodron University Salzburg (PEPSys @ PLUS), led by Prof. Frank Pallas, is doing interdisciplinary research in the techno-legal domain. We have expertise in aligning real-world systems with GDPR and alike privacy regulations. Beyond that, we design and prototypically implement novel approaches for aligning real-world systems with actual legal and policy-related givens.
+decription: The Privacy Engineering and Policy-Aligned Systems Group at the University Salzburg (PEPSys @ Uni Salzburg), led by Prof. Frank Pallas, is doing interdisciplinary research in the techno-legal domain. We have expertise in aligning real-world systems with GDPR and alike privacy regulations. Beyond that, we design and prototypically implement novel approaches for aligning real-world systems with actual legal and policy-related givens.
 permalink: /
 ---
 
-The Privacy Engineering and Policy-Aligned Systems Group at Paris Lodron University Salzburg (PEPSys @ PLUS), led by [Univ.-Prof. Dr.-Ing. Frank Pallas](/team/fp), was established in April 2024 as part of a larger initiative to foster [Excellence in Digital Sciences and Interdisciplinary Technologies](https://www.plus.ac.at/digitale-und-analytische-wissenschaften/fachbereiche-einrichtungen/einrichtungen/exdigit/) within the faculty of [Digital and Analytical Sciences](https://www.plus.ac.at/digitale-und-analytische-wissenschaften/).
+The Privacy Engineering and Policy-Aligned Systems Group at the University Salzburg (PEPSys @ Uni Salzburg), led by [Univ.-Prof. Dr.-Ing. Frank Pallas](/team/fp), was established in April 2024 as part of a larger initiative to foster [Excellence in Digital Sciences and Interdisciplinary Technologies](https://www.plus.ac.at/digitale-und-analytische-wissenschaften/fachbereiche-einrichtungen/einrichtungen/exdigit/) within the faculty of [Digital and Analytical Sciences](https://www.plus.ac.at/digitale-und-analytische-wissenschaften/).
 
 Our overall mission is to build bridges between the design and engineering of cutting-edge enterprise- and society-grade systems on the one and the legal and policy-related aspects shaping such systems on the other hand. Originally rooted in the domain of Privacy Engineering and currently heading out towards further areas of particular societal relevance, we design and prototypically implement novel approaches for aligning real-world systems with actual legal and policy-related givens. Besides, we also work towards a proper understanding of technical concepts and givens in the regulatory discourse. For a more comprehensive depiction, see our [research statement](/research) and our [projects section](/projects).
 
