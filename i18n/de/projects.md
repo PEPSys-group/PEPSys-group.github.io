@@ -13,7 +13,7 @@ Recently established in our new environment in Salzburg, we are currently lookin
 
 [**Excellence in Digital Sciences and Interdisciplinary Technologies**](https://www.plus.ac.at/digital-and-analytical-sciences/fachbereiche-einrichtungen/einrichtungen/exdigit/?lang=en)
 
-In 2022, the Paris Lodron University of Salzburg (PLUS) established the new Faculty of Digital and Analytical Sciences (DAS). The EXDIGIT project aims to establish this newly founded faculty as an interdisciplinary research platform with critical mass and international visibility in the aforementioned digital topics. The PEPSys @ PLUS group is one piece within this initiative, along the "sibling" groups for [Interactive Intelligent Systems](https://christinebauer.eu/) and [Space and Place in the Information Sciences](https://www.space-and-place.net/) as well as many further activities.
+In 2022, the University of Salzburg established the new Faculty of Digital and Analytical Sciences (DAS). The EXDIGIT project aims to establish this newly founded faculty as an interdisciplinary research platform with critical mass and international visibility in the aforementioned digital topics. The PEPSys @ Uni Salzburg group is one piece within this initiative, along the "sibling" groups for [Interactive Intelligent Systems](https://christinebauer.eu/) and [Space and Place in the Information Sciences](https://www.space-and-place.net/) as well as many further activities.
 
 * Website: [https://www.plus.ac.at/digitale-und-analytische-wissenschaften/fachbereiche-einrichtungen/einrichtungen/exdigit/](https://www.plus.ac.at/digitale-und-analytische-wissenschaften/fachbereiche-einrichtungen/einrichtungen/exdigit/)
 * Partners: [Salzburg Research (Austria)](https://www.salzburgresearch.at/), [Innovation Salzburg (Austria)](https://www.innovation-salzburg.at/)
@@ -29,7 +29,7 @@ In 2022, the Paris Lodron University of Salzburg (PLUS) established the new Facu
 
 ## Past Projects
 
-Before joining PEPSys @ PLUS, our [team members](/team) were involved in the following projects at TU Berlin's [Information Systems Engineering group](https://www.tu.berlin/ise) (in chronological order, covering projects since 2017):
+Before joining PEPSys @ Uni Salzburg, our [team members](/team) were involved in the following projects at TU Berlin's [Information Systems Engineering group](https://www.tu.berlin/ise) (in chronological order, covering projects since 2017):
 
 ### GANGES
 
