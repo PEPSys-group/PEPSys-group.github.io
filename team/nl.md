@@ -21,7 +21,7 @@ Contact me at [nicola.leschke@plus.ac.at](mailto:nicola.leschke@plus.ac.at)
 # Signature Publications: 
 **Data Access** 
 
-Leschke, N., Wolf, K., Pallas, F., 2026. [**Alohomora! Faciliating Personal Data Access Through Automated Graph Extraction and Integration**](https://ieeexplore.ieee.org/document/11631907). 
+Leschke, N., Wolf, K., Pallas, F., 2026. [**Alohomora! Faciliating Personal Data Access Through Automated Graph Extraction and Integration**](https://ieeexplore.ieee.org/document/11631907). 2026 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), pp. 56-64.
 
 Leschke, N., Pöhn, D., Pallas, F., 2024. [**How to Drill into Silos: Creating a Free-to-Use Dataset of Data Subject Access Packages**](https://link.springer.com/chapter/10.1007/978-3-031-68024-3_7). Privacy Technologies and Policy. APF 2024, pp. 132-155.
 
