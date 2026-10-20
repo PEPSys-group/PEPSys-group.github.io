@@ -19,7 +19,7 @@ For further and always up-to-date information, visit my profiles on [Google Scho
 Contact me at [nicola.leschke@plus.ac.at](mailto:nicola.leschke@plus.ac.at)
 
 # Signature Publications: 
-## Data Access 
+### Data Access 
 **Leschke, N.**, Wolf, K., Pallas, F., 2026. [**Alohomora! Faciliating Personal Data Access Through Automated Graph Extraction and Integration**](https://ieeexplore.ieee.org/document/11631907). 
 
 **Leschke, N.**, Pöhn, D., Pallas, F., 2024. [**How to Drill into Silos: Creating a Free-to-Use Dataset of Data Subject Access Packages**](https://link.springer.com/chapter/10.1007/978-3-031-68024-3_7). Privacy Technologies and Policy. APF 2024, pp. 132-155.
@@ -28,12 +28,12 @@ Contact me at [nicola.leschke@plus.ac.at](mailto:nicola.leschke@plus.ac.at)
 
 Podda, E., **Leschke, N.**, Samarati, P., Pallas, F., 2026. **Transitioning from Portability in the GDPR to Access in the Data Act: A Multidisciplinary Analysis of Data Access by Design**. Data Protection, Privacy and Artificial Intelligence, vol. 18, pp. 199-227.
 
-## Privacy Principles Beyond Data Access
+### Privacy Principles Beyond Data Access
 Grünewald, E., Halkenhäußer, J., **Leschke, N.**, Washington, J., Paupini, C., Pallas, F., 2023. [**Enabling Versatile Privacy Interfaces Using Machine-Readable Transparency Information**](https://doi.org/10.1007/978-3-031-44939-0_7). Privacy Symposium 2023, pp. 119-137.
 
 **Leschke, N.**, Kurze, A., Reuter, C., Börner, A., Pallas, F, 2026. [**Offlinetags@CLT: Social Signals Meet Technical Communities (WIP)**](https://soups.page/2026/posters-files/soups2026posters-paper77-extended_abstract_paper.pdf). Symposium On Usable Privacy and Security (SOUPS) 2026, Poster Proceedings.
 
-## Editor
+### Editor
 Pallas, F., **Leschke, N.**, Arastouei, N., Rannenberg, K, 2026. [**Privacy Technologies and Policy. 14th Annual Privacy Forum, APF 2026.**](https://link.springer.com/book/10.1007/978-3-032-35899-8) 
 
 # Awards
