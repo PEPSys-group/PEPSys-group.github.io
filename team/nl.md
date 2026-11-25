@@ -21,11 +21,11 @@ Contact me at [nicola.leschke@plus.ac.at](mailto:nicola.leschke@plus.ac.at)
 # Signature Publications: 
 **Data Access** 
 
+Leschke, N. and Pallas, F. 2027. [**A Privacy Engineer’s Perspective on Personal Data Access: From Legal Obligations to Technical Challenges**](https://doi.org/10.1016/j.cose.2026.105226). Computers & Security (173). Article no 105226.
+
 Leschke, N., Wolf, K., Pallas, F., 2026. [**Alohomora! Faciliating Personal Data Access Through Automated Graph Extraction and Integration**](https://ieeexplore.ieee.org/document/11631907). 2026 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), pp. 56-64.
 
 Leschke, N., Pöhn, D., Pallas, F., 2024. [**How to Drill into Silos: Creating a Free-to-Use Dataset of Data Subject Access Packages**](https://link.springer.com/chapter/10.1007/978-3-031-68024-3_7). Privacy Technologies and Policy. APF 2024, pp. 132-155.
-
-Leschke, N., Kirsten, F., Pallas, F., Grünewald, E., 2023. [**Streamlining Personal Data Access Requests: From Obstructive Procedures to Automated Web Workflows**](https://doi.org/10.1007/978-3-031-34444-2_9). Web Engineering. ICWE 2023, pp. 111-125.
 
 Podda, E., Leschke, N., Samarati, P., Pallas, F., 2026. [**Transitioning from Portability in the GDPR to Access in the Data Act: A Multidisciplinary Analysis of Data Access by Design**](https://www.bloomsbury.com/uk/data-protection-privacy-and-artificial-intelligence-volume-18-9781509993147/). Data Protection, Privacy and Artificial Intelligence, vol. 18, pp. 199-227.
 
